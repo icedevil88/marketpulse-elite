@@ -45,7 +45,7 @@ The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) i
 - State: **activated**.
 - Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
 - Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
-- The next run must first resume the existing private YouTube draft **N_Tz7w_25jY** after checking the phone-verification status below. Do not upload the first clip again. The same clip is already public on TikTok: do not duplicate it there either.
+- The launch clip is now publicly published on both YouTube (**N_Tz7w_25jY**) and TikTok (**7704390833612557591**). Do not upload or publish either again. Continue with the next original clip and the alternating DE/EN sequence.
 - Reuse this task; do not create a duplicate social task or a second Telegram schedule.
 
 ## Launch log
@@ -55,30 +55,38 @@ Status recorded on 4 November 2026 from the production and platform checks. An u
 | Item | Status | ID / verified location |
 | --- | --- | --- |
 | First German clip — “Drei Fragen, bevor du dem Hype glaubst” | Production complete; file ready | Asset details below |
-| First YouTube Short | **Uploaded and saved as a private draft; not publicly published.** Upload terms explicitly approved by the owner. Preliminary checks report no problems. Custom cover is blocked pending phone verification. | Video ID **N_Tz7w_25jY**; channel UCJYUmCEkEBdGWI20ef3Pquw |
+| First YouTube Short | **Publicly published and verified on 4 November 2026.** YouTube confirms “Video ist veröffentlicht” and “Am 04.11.2026 veröffentlicht”. The public Shorts page shows the correct title, @marketpulseelite, and AI label. | Video ID **N_Tz7w_25jY**; https://www.youtube.com/shorts/N_Tz7w_25jY |
 | First TikTok post | **Publicly published and verified.** Studio shows 4 November 2026, 19:51, visibility **“Alle”**, and no review notice. The actual public post was opened and its 34-second playback, caption, and handle confirmed. | Video ID **7704390833612557591**; https://www.tiktok.com/@marketpulseelite_de/video/7704390833612557591 |
 | TikTok cover and disclosures | Cover saved. Public post labels **“Werbeinhalt”** and **“Von Creator*in als KI-generiert gekennzeichnet”** verified. | Same TikTok video ID |
 | Daily YouTube/TikTok task | Activated; first scheduled run from 5 November 2026 | **6aeb7f0e1bc8819199e82303283545a5** |
 | TikTok display-name change | Blocked by platform date shown as 11 November 2026 | Recheck before change |
 | First scheduled Telegram daily run | Awaiting first recorded execution | Pending run URL |
 
-TikTok publication is complete and publicly verified; do not duplicate that post.
+Both launch publications are complete and publicly verified; do not duplicate either post.
 
-### YouTube draft — resume, do not re-upload
+### YouTube publication — confirmed
 
 - Existing video ID: **N_Tz7w_25jY**.
-- Status: uploaded and saved as a **private draft**, not publicly published.
+- Public URL: https://www.youtube.com/shorts/N_Tz7w_25jY
+- Status: **published on 4 November 2026**. The completion dialog explicitly reported “Video ist veröffentlicht” and “Am 04.11.2026 veröffentlicht”.
 - Saved title: **“3 Fragen, bevor du dem Börsen-Hype glaubst | MarketPulse Elite”**.
+- The opened public Shorts page confirms the title, **@marketpulseelite**, and the AI label. Video playback was still loading at that check; **a completed playback test is not claimed**.
 - Description with both German and Global Telegram links saved.
 - Audience: not made for children.
 - AI-generated-content disclosure enabled; no paid partnership.
 - Language: German; category: Education.
 - Automatic location information disabled.
 - Preliminary checks: no problems reported.
+- German SRT uploaded and saved; the interface showed **“Deutsch von dir”**.
+- The automatic video-frame thumbnail **(1)** was selected and saved.
 - The owner explicitly approved the upload terms with “ja darfst du”; do not ask for the same upload-terms confirmation again.
-- Custom cover upload requires YouTube phone verification. The requested phone-verification page has Belgium selected and currently reports: **“Diese Telefonnummer ist mit zu vielen Konten verknüpft. Es können pro Telefonnummer pro Jahr nur zwei Konten bestätigt werden. Gib eine andere Telefonnummer ein.”**
-- The owner receives the requested verification page for manual takeover. No phone number is visible or recorded in this operating record. The custom cover remains blocked; the private draft is unchanged.
-- Resume this existing draft after verification, apply the cover if the feature is unlocked, and continue the authorized publication workflow. Record the final visibility and public result only after checking them.
+
+### Phone verification and custom cover — deferred
+
+- A custom cover remains unavailable because YouTube reports that the phone number is already associated with too many verified accounts: a maximum of two accounts per phone number per year.
+- The owner says the number cannot be used again until next year and wants to continue **without another phone-verification attempt**. Do not request or retry phone verification or create a new account for this purpose.
+- No phone number is visible or recorded in this operating record.
+- The generated custom cover is retained as an asset. Publication proceeded successfully using the saved automatic video-frame thumbnail. The custom-cover limitation is **not an outstanding publication blocker**.
 
 ## First clip assets
 
