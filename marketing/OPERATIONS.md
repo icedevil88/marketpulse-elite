@@ -86,7 +86,8 @@ Both launch publications are complete and publicly verified; do not duplicate ei
 - A custom cover remains unavailable because YouTube reports that the phone number is already associated with too many verified accounts: a maximum of two accounts per phone number per year.
 - The owner says the number cannot be used again until next year and wants to continue **without another phone-verification attempt**. Do not request or retry phone verification or create a new account for this purpose.
 - No phone number is visible or recorded in this operating record.
-- The generated custom cover is retained as an asset. Publication proceeded successfully using the saved automatic video-frame thumbnail. The custom-cover limitation is **not an outstanding publication blocker**.
+- The generated custom cover is retained as an asset. The first publication proceeded successfully using the saved automatic video-frame thumbnail.
+- **Ongoing operating rule, until further notice:** continue publishing Shorts on the existing project accounts. Use YouTube automatic/video-frame thumbnails; a custom cover is not required. Missing phone verification must not hold up uploads. Do not prompt the owner for this verification again unless the owner changes this instruction.
 
 ## First clip assets
 
