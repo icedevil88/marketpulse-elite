@@ -45,7 +45,7 @@ The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) i
 - State: **activated**.
 - Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
 - Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
-- The next run must first check the unresolved YouTube launch status below. The first clip is already public on TikTok: do not upload it there again.
+- The next run must first resume the existing private YouTube draft **N_Tz7w_25jY** after checking the phone-verification status below. Do not upload the first clip again. The same clip is already public on TikTok: do not duplicate it there either.
 - Reuse this task; do not create a duplicate social task or a second Telegram schedule.
 
 ## Launch log
@@ -55,14 +55,29 @@ Status recorded on 4 November 2026 from the production and platform checks. An u
 | Item | Status | ID / verified location |
 | --- | --- | --- |
 | First German clip — “Drei Fragen, bevor du dem Hype glaubst” | Production complete; file ready | Asset details below |
-| First YouTube Short | **Not uploaded**; the upload screen requests explicit agreement to the Terms of Service and Community Guidelines. Required user confirmation is pending. | Channel UCJYUmCEkEBdGWI20ef3Pquw |
+| First YouTube Short | **Uploaded and saved as a private draft; not publicly published.** Upload terms explicitly approved by the owner. Preliminary checks report no problems. Custom cover is blocked pending phone verification. | Video ID **N_Tz7w_25jY**; channel UCJYUmCEkEBdGWI20ef3Pquw |
 | First TikTok post | **Publicly published and verified.** Studio shows 4 November 2026, 19:51, visibility **“Alle”**, and no review notice. The actual public post was opened and its 34-second playback, caption, and handle confirmed. | Video ID **7704390833612557591**; https://www.tiktok.com/@marketpulseelite_de/video/7704390833612557591 |
 | TikTok cover and disclosures | Cover saved. Public post labels **“Werbeinhalt”** and **“Von Creator*in als KI-generiert gekennzeichnet”** verified. | Same TikTok video ID |
 | Daily YouTube/TikTok task | Activated; first scheduled run from 5 November 2026 | **6aeb7f0e1bc8819199e82303283545a5** |
 | TikTok display-name change | Blocked by platform date shown as 11 November 2026 | Recheck before change |
 | First scheduled Telegram daily run | Awaiting first recorded execution | Pending run URL |
 
-TikTok publication is complete and publicly verified; do not duplicate that post. For YouTube, preserve the ready asset and obtain the pending required confirmation before accepting the displayed agreement. Planned YouTube title: **“3 Fragen, bevor du dem Börsen-Hype glaubst | MarketPulse Elite”**.
+TikTok publication is complete and publicly verified; do not duplicate that post.
+
+### YouTube draft — resume, do not re-upload
+
+- Existing video ID: **N_Tz7w_25jY**.
+- Status: uploaded and saved as a **private draft**, not publicly published.
+- Saved title: **“3 Fragen, bevor du dem Börsen-Hype glaubst | MarketPulse Elite”**.
+- Description with both German and Global Telegram links saved.
+- Audience: not made for children.
+- AI-generated-content disclosure enabled; no paid partnership.
+- Language: German; category: Education.
+- Automatic location information disabled.
+- Preliminary checks: no problems reported.
+- The owner explicitly approved the upload terms with “ja darfst du”; do not ask for the same upload-terms confirmation again.
+- Custom cover upload requires YouTube phone verification. The owner explicitly requested that the verification screen be shown; the primary agent is opening that screen for manual input.
+- Resume this existing draft after verification, apply the cover if the feature is unlocked, and continue the authorized publication workflow. Record the final visibility and public result only after checking them.
 
 ## First clip assets
 
