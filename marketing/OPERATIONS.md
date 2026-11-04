@@ -13,9 +13,9 @@ Updated: 4 November 2026 (Europe/Brussels).
 
 ## Social publishing rule
 
-Provisional cadence: **one original clip per day, published to both YouTube and TikTok**. Alternate German and English between daily clips. This means one creative adapted to two destinations, not two different clips per platform per day.
+Active cadence: **one original clip per day, intended for both YouTube and TikTok**, subject to successful upload, platform review, and required confirmations. Alternate German and English between daily clips. This means one creative adapted to two destinations, not two different clips per platform per day.
 
-Use the existing [14-day launch calendar](LAUNCH_CALENDAR.md): begin with a German project-introduction clip, then continue the educational sequence. Clips should be vertical, 20–45 seconds, clearly captioned, and lead to the appropriate free Telegram channel.
+The first German clip is **“Drei Fragen, bevor du dem Hype glaubst”**. Continue the educational sequence in the existing [14-day launch calendar](LAUNCH_CALENDAR.md). Clips should be vertical, 20–45 seconds, clearly captioned, and lead to the appropriate free Telegram channel.
 
 Use dated, verifiable sources for factual market claims. Do not invent performance, prices, testimonials, urgency, or guaranteed returns. Content is general education, not personalized investment advice. Follow the [brand guide](BRAND_GUIDE.md).
 
@@ -38,18 +38,46 @@ https://github.com/icedevil88/marketpulse-elite/actions/runs/41819083943
 
 The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) is manual only and sends [posts/de.txt](../posts/de.txt) and [posts/en.txt](../posts/en.txt). These still contain the welcome posts; do not rerun them unintentionally.
 
+## Active social automation
+
+- Title: **MarketPulse Elite Shorts**
+- Task ID: **6aeb7f0e1bc8819199e82303283545a5**
+- State: **activated**.
+- Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
+- Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
+- The next run must first check the unresolved launch statuses below. Do not upload the first clip again merely because publication is not yet confirmed.
+- Reuse this task; do not create a duplicate social task or a second Telegram schedule.
+
 ## Launch log
 
-Treat this table as a record of evidence, not a declaration that an upload or automation already exists. Replace pending entries only after receiving and verifying the corresponding result.
+Status recorded on 4 November 2026 from the production and platform checks. An upload submission is not a confirmed public publication.
 
-| Item | Status | ID / verified URL |
+| Item | Status | ID / verified location |
 | --- | --- | --- |
-| First German introduction clip | In production | Pending |
-| First YouTube Short | Not yet recorded here | Pending |
-| First TikTok post | Not yet recorded here | Pending |
-| Daily YouTube/TikTok task | Not yet recorded here | Pending automation ID |
+| First German clip — “Drei Fragen, bevor du dem Hype glaubst” | Production complete; file ready | Asset details below |
+| First YouTube Short | **Not uploaded**; the upload screen requests explicit agreement to the Terms of Service and Community Guidelines. Required user confirmation is pending. | Channel UCJYUmCEkEBdGWI20ef3Pquw |
+| First TikTok post | Upload submitted. Studio shows **“Inhalt wird überprüft”** and visibility **“Nur ich”**. **Not confirmed public.** | Video ID **7704390833612557591**; https://www.tiktok.com/tiktokstudio/content |
+| TikTok cover and disclosures | Cover saved; AI-generated-content and own-brand disclosures set | Same TikTok video ID |
+| Daily YouTube/TikTok task | Activated; first scheduled run from 5 November 2026 | **6aeb7f0e1bc8819199e82303283545a5** |
 | TikTok display-name change | Blocked by platform date shown as 11 November 2026 | Recheck before change |
 | First scheduled Telegram daily run | Awaiting first recorded execution | Pending run URL |
+
+For TikTok, inspect the existing video in Studio before any further action. Confirm whether review has finished and which visibility is actually set. Do not describe the video as publicly published until the platform proves that state. For YouTube, preserve the ready asset and obtain the pending required confirmation before accepting the displayed agreement.
+
+## First clip assets
+
+- Title: **Drei Fragen, bevor du dem Hype glaubst**
+- Language: German.
+- Duration: **34.0 seconds**.
+- Video: **1080 × 1920**, **30 fps**, **H.264**.
+- Audio: **AAC**.
+- File size: **2,410,262 bytes**.
+- SHA-256: `904b4515e3e4bc4d33871212b673bcdcfc90d3ef504ff8f4cf7465f0a4485323`.
+- Library film ID: **libfile_ab3a075b56008191823fe1e7a41df7cf**.
+- Library cover ID: **libfile_3967f17639c08191bfc5e90a043e133e**.
+- Library production kit ID: **libfile_dbc2132781b48191af0fcadee67e8ab9**.
+- InVideo project: https://invideo.io/@niels-69065/marketpulse-elite-drei-fragen-vor-dem-hype-de-start-short
+- Estimated incremental InVideo usage: **1.51 credits for TTS + 0.10 credits for transcription**, approximately **1.61 credits total**. No purchases.
 
 ## Routine checks
 
