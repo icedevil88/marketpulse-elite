@@ -76,7 +76,8 @@ TikTok publication is complete and publicly verified; do not duplicate that post
 - Automatic location information disabled.
 - Preliminary checks: no problems reported.
 - The owner explicitly approved the upload terms with “ja darfst du”; do not ask for the same upload-terms confirmation again.
-- Custom cover upload requires YouTube phone verification. The owner explicitly requested that the verification screen be shown; the primary agent is opening that screen for manual input.
+- Custom cover upload requires YouTube phone verification. The requested phone-verification page has Belgium selected and currently reports: **“Diese Telefonnummer ist mit zu vielen Konten verknüpft. Es können pro Telefonnummer pro Jahr nur zwei Konten bestätigt werden. Gib eine andere Telefonnummer ein.”**
+- The owner receives the requested verification page for manual takeover. No phone number is visible or recorded in this operating record. The custom cover remains blocked; the private draft is unchanged.
 - Resume this existing draft after verification, apply the cover if the feature is unlocked, and continue the authorized publication workflow. Record the final visibility and public result only after checking them.
 
 ## First clip assets
