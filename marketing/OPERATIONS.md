@@ -1,6 +1,6 @@
 # MarketPulse Elite — operating record
 
-Updated: 4 November 2026 (Europe/Brussels).
+Updated: 5 November 2026 (Europe/Brussels).
 
 ## Active scope
 
@@ -109,3 +109,37 @@ Both launch publications are complete and publicly verified; do not duplicate ei
 - Before posting: confirm project identity, language, rights to media/music, sources, captions, and the intended Telegram destination.
 - After posting: inspect the actual published result; record its URL/ID and any moderation or processing status. An attempted upload is not a confirmed publication.
 - Weekly: review qualified views, profile clicks, Telegram joins, retention, saves, and corrections. Never substitute invented figures for unavailable metrics.
+
+## 5 November 2026 — English clip, partial platform completion
+
+Topic: **Revenue up, profit down?** Calendar day 2; distinct from the German launch clip.
+Source checked 2026-11-05: SEC, *Beginners' Guide to Financial Statements*, https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide . Evergreen accounting education, not live news. Explicitly hypothetical USD example: sales 100→120 (+20%), all expenses 95→125, net profit 5→net loss 5. No real-company forecast or personal recommendation.
+
+| Destination | Proven status | ID / location |
+| --- | --- | --- |
+| TikTok @marketpulseelite_de | **Publicly published.** Studio shows 5 Nov 19:21, visibility “Alle”, 00:33. Public post opened; correct handle, playback at 00:17/00:33, caption, “Promotional content” and “Creator labeled as AI-generated” confirmed. | **7704754341671947542** — https://www.tiktok.com/@marketpulseelite_de/video/7704754341671947542 |
+| YouTube @marketpulseelite | **Not uploaded.** Exact-channel Studio page says “Du bist nicht berechtigt, diese Seite aufzurufen”. Current channel switcher has no MarketPulse channel. No other channel used. | Target **UCJYUmCEkEBdGWI20ef3Pquw**; project login/access required, not phone verification. |
+
+TikTok's upload/content check found no issues; uploaded custom cover saved; own-brand selected, third-party branded partnership unchecked, AI label enabled. No location attached. No TikTok duplicate draft/planned post was visible before upload; only the Nov4 launch post was present. YouTube drafts/planned/published inventory could **not** be rechecked because access was unavailable, so inspect it before any later upload.
+
+### Resume and deduplication
+- **Do not reupload this English clip to TikTok.**
+- On the next run, restore the exact existing English asset below and resume only the missing YouTube publication after checking that channel's inventory. Do not create a replacement English clip or use an alternate channel.
+- No phone verification or custom YouTube thumbnail attempt. Use automatic/video-frame selection.
+- Next genuinely new creative after this partial run is **German**. The 14-day plan is a starting point, not a repeating loop.
+- Existing social task and Telegram schedule left unchanged; no manual Telegram workflow run.
+
+### Durable assets and checks
+- Video: **libfile_9e626319d3848191bc3b5425ac6c8ce5**, MarketPulse_Revenue_EN.mp4.
+- Cover: **libfile_6f4e249023b88191918c9e15470f27af**, MarketPulse_Revenue_Cover.jpg.
+- Production kit: **libfile_0d22d661c9e481919dd5a5048a607c33**, MarketPulse_Revenue_EN_Begleitmaterial.zip (renderer, script, voice, cue SRT, source/metadata, QA, ASR and licenses).
+- 33.276 s; 1080×1920, 30 fps, H.264/AAC; 1,313,479 bytes.
+- Video SHA256: `7bf28ae0b7261472e0f28360400b799d20b70dc5da962b01803fd76892edcb06`.
+- Full ffmpeg decode passed. Nine-scene contact sheet visually inspected. Nine cue-level subtitles synchronized to independently synthesized chunks; no word-level alignment claimed.
+- Final local ASR recognized all amounts, profit/loss, 20% and CTA. One conjunction differed; substantive figures and explanation intact. This is machine intelligibility evidence, **not a human listening approval**.
+- Final audio measured −17.49 LUFS integrated / −1.21 dBTP, no digital clipping. No premium-voice equivalence claimed.
+
+### Binding free mode from 5 November
+No new paid InVideo/ElevenLabs generations, existing premium-credit spending, paid API calls, upgrades, subscriptions, trial subscriptions or top-ups. Existing finished legally usable files can be reused. This run used local Piper **en_US-ljspeech-high**, Pillow and ffmpeg; paid service calls: **0**. Free toolkit **libfile_0b4b4cac46508191be9d14eb3ea65f69** was restored; dependencies and model hashes checked. `ORT_DISABLE_TELEMETRY=1` was set before Piper/ONNX-dependent starts. Do not assume models persist. Only free functions with suitable rights; preserve as draft if quality/access is insufficient. No account-plan changes.
+
+Reinvestment preference is not a purchase authorization. Only propose a specific improvement against confirmed paid revenue net of known fees/refunds and a user-approved amount; do not spend or create extra revenue-check schedules.
