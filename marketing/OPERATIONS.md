@@ -1,6 +1,6 @@
 # MarketPulse Elite — operating record
 
-Updated: 5 November 2026 (Europe/Brussels).
+Updated: 6 November 2026 (Europe/Brussels).
 
 ## Active scope
 
@@ -42,7 +42,7 @@ The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) i
 
 - Title: **MarketPulse Elite Shorts**
 - Task ID: **6aeb7f0e1bc8819199e82303283545a5**
-- State: **activated**.
+- State: **paused on 6 November 2026 — pending YouTube continuation requires project login**.
 - Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
 - Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
 - The launch clip is now publicly published on both YouTube (**N_Tz7w_25jY**) and TikTok (**7704390833612557591**). Do not upload or publish either again. Continue with the next original clip and the alternating DE/EN sequence.
@@ -143,3 +143,15 @@ TikTok's upload/content check found no issues; uploaded custom cover saved; own-
 No new paid InVideo/ElevenLabs generations, existing premium-credit spending, paid API calls, upgrades, subscriptions, trial subscriptions or top-ups. Existing finished legally usable files can be reused. This run used local Piper **en_US-ljspeech-high**, Pillow and ffmpeg; paid service calls: **0**. Free toolkit **libfile_0b4b4cac46508191be9d14eb3ea65f69** was restored; dependencies and model hashes checked. `ORT_DISABLE_TELEMETRY=1` was set before Piper/ONNX-dependent starts. Do not assume models persist. Only free functions with suitable rights; preserve as draft if quality/access is insufficient. No account-plan changes.
 
 Reinvestment preference is not a purchase authorization. Only propose a specific improvement against confirmed paid revenue net of known fees/refunds and a user-approved amount; do not spend or create extra revenue-check schedules.
+
+## 6 November 2026 — continuation blocked; social task paused
+
+Read current OPERATIONS.md and LAUNCH_CALENDAR.md first. Continued the incomplete English **Revenue up, profit down?** run rather than regenerating assets or reuploading the TikTok post.
+
+- Exact YouTube target **UCJYUmCEkEBdGWI20ef3Pquw** still displays “Du bist nicht berechtigt, diese Seite aufzurufen”. The visible channel switcher lists only Oddly Orbit, Midnight Signal and Creator Aftershock, not MarketPulse. None selected or used. YouTube drafts/scheduled/public inventory remains inaccessible; **no YouTube upload or publication this run**.
+- TikTok Studio for **@marketpulseelite_de** lists the two existing public posts only: English **7704754341671947542** (5 Nov, 19:21, “Alle”, 33 s) and German **7704390833612557591** (4 Nov, 19:51, “Alle”, 34 s). English post shows **302 views, 1 like, 0 comments** at this check. These are platform counters, not revenue, qualified leads or Telegram joins. No additional draft/planned row visible.
+- Existing source and content unchanged: SEC financial-statements guide linked in the 5 November entry. No new financial claims researched or published.
+- Library metadata search reconfirmed video **libfile_9e626319d3848191bc3b5425ac6c8ce5** (1,313,479 bytes), cover **libfile_6f4e249023b88191918c9e15470f27af**, and kit **libfile_0d22d661c9e481919dd5a5048a607c33**. No replacement files generated. Restore those exact files when upload access is available.
+- **Social task 6aeb7f0e1bc8819199e82303283545a5 paused** after the required pending continuation remained blocked by missing project authentication. Resume after a session with access to the correct project channel is established, checking its inventory first. TikTok remains accessible, but this pending English clip must not be uploaded there again.
+- No phone verification, alternate channel, Instagram, paid service call or Telegram workflow action. The Telegram automation is unchanged.
+- Next action: complete the missing YouTube publication of the existing English file; then the next new creative is German.
