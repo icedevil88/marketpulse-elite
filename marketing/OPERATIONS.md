@@ -42,7 +42,7 @@ The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) i
 
 - Title: **MarketPulse Elite Shorts**
 - Task ID: **6aeb7f0e1bc8819199e82303283545a5**
-- State: **paused on 6 November 2026 — pending YouTube continuation requires project login**.
+- State: **active; re-enabled on 6 November 2026 after project sign-in and successful YouTube continuation**.
 - Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
 - Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
 - The launch clip is now publicly published on both YouTube (**N_Tz7w_25jY**) and TikTok (**7704390833612557591**). Do not upload or publish either again. Continue with the next original clip and the alternating DE/EN sequence.
@@ -155,3 +155,20 @@ Read current OPERATIONS.md and LAUNCH_CALENDAR.md first. Continued the incomplet
 - **Social task 6aeb7f0e1bc8819199e82303283545a5 paused** after the required pending continuation remained blocked by missing project authentication. Resume after a session with access to the correct project channel is established, checking its inventory first. TikTok remains accessible, but this pending English clip must not be uploaded there again.
 - No phone verification, alternate channel, Instagram, paid service call or Telegram workflow action. The Telegram automation is unchanged.
 - Next action: complete the missing YouTube publication of the existing English file; then the next new creative is German.
+
+## 6 November 2026 — access restored and English YouTube publication completed
+
+This entry supersedes the pending-upload blocker above. The owner completed project sign-in. Fresh Studio dashboard verified **MarketPulse Elite / UCJYUmCEkEBdGWI20ef3Pquw**. Before upload, Videos was empty and Shorts contained only the Nov4 launch post (1–1 of 1); no duplicate English upload, draft or scheduled row.
+
+Restored the existing English video and kit from their Library IDs above; video SHA256 still **7bf28ae0b7261472e0f28360400b799d20b70dc5da962b01803fd76892edcb06**. Complete ffmpeg decode passed again; no regeneration or paid services.
+
+- **YouTube publicly published:** **WrqNtayiboU**, https://www.youtube.com/shorts/WrqNtayiboU .
+- Studio explicitly confirmed **“Video ist veröffentlicht” / “Am 06.11.2026 veröffentlicht”**. Public Shorts page opened and showed correct title and **@marketpulseelite**. Full public playback was not verified.
+- Title: **Revenue Up, Profit Down? A $5 Lesson | MarketPulse Elite**.
+- Description: hypothetical example, SEC source checked 5 November, risk/education language, both Telegram addresses, synthetic Piper voice and original illustrative graphics disclosed.
+- English language; Education category; not specifically for children; no paid third-party promotion; AI disclosure **Yes**; automatic locations off. Burned-in English captions retained; no additional SRT track uploaded in this continuation.
+- YouTube supplied the automatic thumbnail. No custom thumbnail or phone-verification attempts. External-link verification notice left untouched; no claim that description URLs are clickable.
+- Copyright precheck: no issues.
+- Same English video was already public on TikTok **7704754341671947542** since Nov5; **not uploaded there again**.
+- **English clip is now complete on BOTH platforms. Never reupload either ID. Next new creative is German**, calendar topic diversification/concentration risk unless research supports a better distinct topic.
+- Social task **6aeb7f0e1bc8819199e82303283545a5 re-enabled** with existing prompt/schedule unchanged. Telegram automation untouched.
