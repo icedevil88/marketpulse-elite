@@ -172,3 +172,15 @@ Restored the existing English video and kit from their Library IDs above; video 
 - Same English video was already public on TikTok **7704754341671947542** since Nov5; **not uploaded there again**.
 - **English clip is now complete on BOTH platforms. Never reupload either ID. Next new creative is German**, calendar topic diversification/concentration risk unless research supports a better distinct topic.
 - Social task **6aeb7f0e1bc8819199e82303283545a5 re-enabled** with existing prompt/schedule unchanged. Telegram automation untouched.
+
+## 2026-11-07 — DE short: overlap between two funds
+
+- Both Studio inventories were checked for existing or pending copies. The channels showed the DE launch and EN revenue clips. The EN clip was already public on both. One new DE master was uploaded once to each project account.
+- Topic: compare holdings at the same reporting date. Fictitious example: two €50 funds, the same stock at 20% and 10%, giving €10 + €5 = €15 exposure per €100. A decline can affect both funds and weights may change. Source checked 2026-11-07: [FINRA, Concentrate on Concentration Risk](https://syndication.finra.org/content/concentrate-concentration-risk-0).
+- Master: 32.88 s, 1080×1920 H.264/AAC, 25 fps, 8 burned-in German cues, own illustrated motion graphics and cover. Local Piper de_DE-thorsten-high with telemetry disabled. Full decode passed, sampled exported frames inspected, -16.43 LUFS / -1.40 dBTP. Offline German speech recognition recovered all amounts and percentages. Human listening review was not performed. No paid generation or promotion.
+- MarketPulse_Fonds_DE.mp4: `libfile_fde3_f-38c5d6f1da7081918e05168c89338789_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Fonds_Cover.jpg: `libfile_fde3_f-db31577fe4b881918d86ad6d861454e6_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Fonds_DE_Begleitmaterial.zip: `libfile_fde3_f-17d0634fe408819192ebfc0a87792b28_d045e4cd0d248191a4a4759b90613215`
+- YouTube **public**, ID `OLq39bc2Tcg`. Exact target channel `UCJYUmCEkEBdGWI20ef3Pquw`; Studio confirmed “Video ist veröffentlicht” on 07.11.2026. [Public Short](https://www.youtube.com/shorts/OLq39bc2Tcg) opened with the matching title and @marketpulseelite. German, Education, general audience, AI indicated, no external paid promotion, automatic location disabled, automatic thumbnail. Both Telegram addresses in description.
+- TikTok **public**, ID `7705496254314319126`. [Public post](https://www.tiktok.com/@marketpulseelite_de/video/7705496254314319126) opened and playback advanced to 00:05 / 00:33. Studio initially showed review, then “Alle” and “7. Nov., 19:20”. Verified project profile before submission, custom cover saved, own-brand and AI switches enabled. Public post showed “Werbeinhalt” and “Von Creator*in als KI-generiert gekennzeichnet”. Both Telegram addresses in caption.
+- Next distinct clip: English. Check both inventories first. No pending publication of the funds clip.
