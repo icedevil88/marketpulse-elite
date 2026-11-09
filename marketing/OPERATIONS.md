@@ -200,3 +200,11 @@ Restored the existing English video and kit from their Library IDs above; video 
 TikTok Studio still lists [Who can move your bitcoin?](https://www.tiktok.com/@marketpulseelite_de/video/7705870480783281430) under @marketpulseelite_de with visibility “Alle”, dated 8 Nov 19:33. No duplicate upload. The original SEC source, verified master, cover and production file IDs are in the 8 November entry above.
 
 YouTube Studio denied access to UCJYUmCEkEBdGWI20ef3Pquw. The account menu offered only unrelated channels. Adding an account opened the Google sign-in form. Target inventory (including drafts and scheduled posts) unavailable; no upload, YouTube ID, new files or expenditure this run. The social clip schedule was paused pending sign-in. On resumption, check target inventory, complete the existing English master there if absent and then reactivate the schedule. Telegram was untouched.
+
+### 9 November 2026 — YouTube completion after project sign-in
+
+Project channel UCJYUmCEkEBdGWI20ef3Pquw showed exactly three prior Shorts and no custody Short. Retrieved the 8 November master, matched its recorded SHA-256 and decoded it fully before upload. Same source, creative and three saved file IDs as the 8 November entry. No new generation or costs.
+
+**Public on YouTube:** [Who Can Move Your Bitcoin? | MarketPulse Elite](https://www.youtube.com/shorts/fbM1SqwolMc), ID `fbM1SqwolMc`. Studio confirmed “Video ist veröffentlicht” and “Am 09.11.2026 veröffentlicht”. Shorts page showed the matching title and @marketpulseelite. English, Education, general audience, AI disclosed, no external paid promotion, automatic thumbnail, automatic locations off, both Telegram addresses and SEC source in description. Precheck found no issues. Original burned-in English captions retained.
+
+**Public on TikTok:** [7705870480783281430](https://www.tiktok.com/@marketpulseelite_de/video/7705870480783281430), previously verified. No repeat upload. Both sides complete. Existing daily Shorts schedule re-enabled for 19:00 Europe/Brussels. Next new clip is German after duplicate checks.
