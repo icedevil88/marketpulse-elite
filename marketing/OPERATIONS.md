@@ -208,3 +208,16 @@ Project channel UCJYUmCEkEBdGWI20ef3Pquw showed exactly three prior Shorts and n
 **Public on YouTube:** [Who Can Move Your Bitcoin? | MarketPulse Elite](https://www.youtube.com/shorts/fbM1SqwolMc), ID `fbM1SqwolMc`. Studio confirmed “Video ist veröffentlicht” and “Am 09.11.2026 veröffentlicht”. Shorts page showed the matching title and @marketpulseelite. English, Education, general audience, AI disclosed, no external paid promotion, automatic thumbnail, automatic locations off, both Telegram addresses and SEC source in description. Precheck found no issues. Original burned-in English captions retained.
 
 **Public on TikTok:** [7705870480783281430](https://www.tiktok.com/@marketpulseelite_de/video/7705870480783281430), previously verified. No repeat upload. Both sides complete. Existing daily Shorts schedule re-enabled for 19:00 Europe/Brussels. Next new clip is German after duplicate checks.
+
+
+## 2026-11-10 — TikTok DE — Gewinn je Aktie +25 %
+
+TikTok Studio on @marketpulseelite_de showed four public posts before production and again before upload. No matching draft, scheduled item or unfinished upload appeared in Studio. Latest was the English custody clip on 8 November. One German clip was submitted. It appeared first under review, then as **public** (Everyone, 10 Nov 19:49). The [public video](https://www.tiktok.com/@marketpulseelite_de/video/7706616891749502230) played to 00:03/00:33 and displayed “Promotional content” and “Creator labeled as AI-generated”. ID `7706616891749502230`. Custom cover, own-brand disclosure and both Telegram addresses verified. Next distinct TikTok creative is English after a fresh inventory check.
+
+Earnings-release example: €1m attributable earnings in both periods divided by 1m versus 800,000 weighted-average ordinary shares gives basic EPS of €1.00 versus €1.25. Hypothetical figures. [IFRS Foundation, IAS 33 §§10, 19](https://www.ifrs.org/issued-standards/list-of-standards/ias-33-earnings-per-share.html/), checked 10 Nov 2026.
+
+Master 33.48 s, 1080×1920, 25 fps, H.264/AAC, eight synchronized German captions, original motion graphics and local Piper de_DE-thorsten-high (model and config hashes matched, telemetry disabled). Full decode passed. Exported frames, audio levels (−16.35 LUFS / −1.37 dBTP) and offline ASR checked. No human listening review. No paid production or promotion. Master SHA-256 `33d0fadfb57d0b408c6455da71f176c93ec62b88924451ac69a0536309ad6cfa`.
+
+- MarketPulse_GewinnJeAktie_DE.mp4 — `libfile_fde3_f-c472e4a5095481919e61378d2c6ce324_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_GewinnJeAktie_Cover.jpg — `libfile_fde3_f-7fde3881477481918e3c3253932d7ba7_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_GewinnJeAktie_DE_Begleitmaterial.zip (script, narration, captions, QA and Studio receipt) — `libfile_fde3_f-b70bff48ad9881918b6ee2089b13dcd3_d045e4cd0d248191a4a4759b90613215`
