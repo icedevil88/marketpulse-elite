@@ -1,0 +1,527 @@
+[
+  {
+    "id": "operating-margin",
+    "category": "equity",
+    "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "de": {
+      "title": "Was bleibt von einem Euro Umsatz?",
+      "body": "Ein fiktives Unternehmen steigert den Umsatz von 100 auf 120 Mio. Euro. Sein operativer Gewinn bleibt bei 12 Mio. Euro. Damit sinkt die operative Marge von 12 auf 10 Prozent. Jeder Euro Umsatz trägt jetzt weniger zum operativen Gewinn bei.",
+      "question": "Welche Kostenzeile würdest du im Jahresbericht zuerst vergleichen?"
+    },
+    "en": {
+      "title": "What does each euro of sales earn?",
+      "body": "A fictional company grows sales from €100m to €120m and earns €12m in operating profit in both years. Its operating margin falls from 12% to 10%. Each euro of sales now contributes less operating profit.",
+      "question": "Which expense line would you compare first in the annual report?"
+    }
+  },
+  {
+    "id": "pe-window",
+    "category": "valuation",
+    "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "de": {
+      "title": "Welcher Gewinn steckt im KGV?",
+      "body": "Bei einem Beispielkurs von 48 Euro und 4 Euro Gewinn je Aktie aus dem letzten Geschäftsjahr beträgt das KGV 12. Mit einer Schätzung von 3 Euro für das kommende Jahr ergibt sich 16. Der Aktienkurs ist in beiden Rechnungen derselbe.",
+      "question": "Schau bei zwei KGV-Angaben zuerst nach dem Bezugsjahr und danach, ob der Gewinn bereits feststeht."
+    },
+    "en": {
+      "title": "Which earnings are in the P/E?",
+      "body": "At a hypothetical price of €48, earnings of €4 per share for the last fiscal year give a P/E of 12. Use a forecast of €3 for next year and the multiple becomes 16. The share price is identical in both calculations.",
+      "question": "When two P/E figures differ, check the earnings period and whether the earnings are reported or forecast."
+    }
+  },
+  {
+    "id": "bitcoin-change",
+    "category": "crypto",
+    "source": "https://developer.bitcoin.org/devguide/transactions.html",
+    "de": {
+      "title": "Warum hat die Bitcoin-Zahlung zwei Ausgänge?",
+      "body": "Eine fiktive Transaktion verwendet einen noch nicht ausgegebenen Transaktionsausgang im Wert von 0,010 BTC. Davon gehen 0,006 BTC an den Empfänger und 0,0039 BTC als Wechselgeld zurück. Die Differenz von 0,0001 BTC ist die Gebühr.",
+      "question": "Was würdest du fälschlich als Kaufpreis verbuchen, wenn du nur den Eingang ansiehst?"
+    },
+    "en": {
+      "title": "Why does a Bitcoin payment have two outputs?",
+      "body": "A fictional transaction spends one unspent output worth 0.010 BTC. The recipient gets 0.006 BTC and 0.0039 BTC returns as change. The 0.0001 BTC difference is the fee.",
+      "question": "What amount might you mistake for the purchase price if you looked only at the input?"
+    }
+  },
+  {
+    "id": "position-weight",
+    "category": "risk",
+    "source": "https://www.finra.org/investors/insights/concentration-risk",
+    "de": {
+      "title": "Ein Kursverlust, zwei verschiedene Folgen",
+      "body": "In einem fiktiven Depot macht eine Aktie 8 Prozent aus. Halbiert sich ihr Kurs und bleiben alle anderen Positionen gleich, verliert das Depot 4 Prozent. Bei 20 Prozent Gewicht wären es 10 Prozent. Diese Rechnung beschreibt ein Szenario und enthält keine Kursprognose.",
+      "question": "Welche zwei Zahlen brauchst du für denselben Stresstest bei einer anderen Position?"
+    },
+    "en": {
+      "title": "One price drop, two portfolio outcomes",
+      "body": "A stock accounts for 8% of a hypothetical portfolio. If it halves in price and everything else holds steady, the portfolio loses 4%. With a 20% starting weight, the loss would be 10%. This is a scenario calculation.",
+      "question": "Which two numbers would you need to run the same stress test on another holding?"
+    }
+  },
+  {
+    "id": "real-return",
+    "category": "literacy",
+    "source": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.en.html",
+    "de": {
+      "title": "Mehr Euro, weniger Kaufkraft?",
+      "body": "Ein Modellkonto wächst von 100 auf 103 Euro. Ein Warenkorb verteuert sich im gleichen Zeitraum von 100 auf 104 Euro. Das Guthaben kauft am Ende nur noch 103/104 des Warenkorbs. Die reale Veränderung beträgt rund −0,96 Prozent.",
+      "question": "Welchen Preisindex würdest du für einen Kaufkraftvergleich verwenden, und über welchen Zeitraum?"
+    },
+    "en": {
+      "title": "More euros, less purchasing power?",
+      "body": "A model account grows from €100 to €103. Over the same period a basket of goods rises from €100 to €104. The closing balance buys only 103/104 of the basket, a real change of about −0.96%.",
+      "question": "Which price index and time period would you use for a purchasing-power comparison?"
+    }
+  },
+  {
+    "id": "cash-receivables",
+    "category": "equity",
+    "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "de": {
+      "title": "Ein Verkauf auf Rechnung",
+      "body": "Ein Händler liefert im Dezember für 10.000 Euro, erfasst den Umsatz bei Lieferung und erhält das Geld im Januar. Am Jahresende steht aus diesem Verkauf eine Forderung in der Bilanz. Der Umsatz ist bereits erfasst, der Zahlungseingang folgt im nächsten Jahr.",
+      "question": "Verfolge den Vorgang in der Gewinn- und Verlustrechnung, der Bilanz und der Kapitalflussrechnung."
+    },
+    "en": {
+      "title": "A sale on credit",
+      "body": "A merchant delivers €10,000 of goods in December, recognizes revenue on delivery and receives cash in January. At year-end the balance sheet shows a receivable from that sale. Revenue has been recorded and the cash arrives the following year.",
+      "question": "Trace the sale through the income statement, balance sheet and cash flow statement."
+    }
+  },
+  {
+    "id": "sales-multiple",
+    "category": "valuation",
+    "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/lectures/ps.html",
+    "de": {
+      "title": "Zweimal derselbe Umsatzmultiplikator",
+      "body": "Zwei fiktive Firmen haben je 100 Mio. Euro Umsatz und einen Börsenwert von 200 Mio. Euro. Beide kosten das Zweifache des Jahresumsatzes. Bei Nettomargen von 2 und 10 Prozent stehen hinter demselben Multiplikator aber 2 und 10 Mio. Euro Jahresgewinn.",
+      "question": "Welche Marge müsste dauerhaft erreichbar sein, damit dein Vergleich aussagekräftig ist?"
+    },
+    "en": {
+      "title": "Two companies at the same sales multiple",
+      "body": "Two hypothetical businesses each have €100m of sales and a €200m market capitalization. Both trade at twice annual sales. At net margins of 2% and 10%, those identical multiples correspond to annual profits of €2m and €10m.",
+      "question": "What sustainable margin would make the comparison meaningful?"
+    }
+  },
+  {
+    "id": "ethereum-gas",
+    "category": "crypto",
+    "source": "https://ethereum.org/developers/docs/gas/",
+    "de": {
+      "title": "Eine Gebühr in Gas und Gwei zerlegen",
+      "body": "Auf Ethereum hängt die Ausführungsgebühr vom verbrauchten Gas und dem effektiven Preis je Gaseinheit ab. Verbraucht eine einfache Überweisung beispielsweise 21.000 Einheiten zu je 10 Gwei, ergibt das 210.000 Gwei oder 0,00021 ETH. Die 10 Gwei sind eine Annahme.",
+      "question": "Welche Zahl würdest du im Transaktionsbeleg prüfen, um die tatsächlich verbrauchten Einheiten zu sehen?"
+    },
+    "en": {
+      "title": "Break an Ethereum fee into gas and gwei",
+      "body": "On Ethereum the execution fee depends on gas used and the effective price per unit. For a simple transfer, an illustrative 21,000 units at 10 gwei come to 210,000 gwei, or 0.00021 ETH. The 10 gwei is an assumption.",
+      "question": "Which field in the transaction receipt tells you the units actually consumed?"
+    }
+  },
+  {
+    "id": "stop-gap",
+    "category": "risk",
+    "source": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15",
+    "de": {
+      "title": "Wenn der Kurs die Stoppschwelle überspringt",
+      "body": "Eine fiktive Aktie schließt bei 50 Euro, eine Verkaufs-Stop-Order liegt bei 45 Euro. Eröffnet die Aktie bei 40 Euro und löst die Order aus, wird sie zur Marktorder. Der Ausführungspreis kann deutlich unter 45 Euro liegen.",
+      "question": "Welche Funktion hat die Zahl 45 in diesem Auftrag?"
+    },
+    "en": {
+      "title": "When a price gaps through a stop",
+      "body": "A hypothetical stock closes at €50 with a sell stop at €45. If it opens at €40 and triggers the order, the order becomes a market order. Execution can occur well below €45.",
+      "question": "What does the €45 figure actually control in this order?"
+    }
+  },
+  {
+    "id": "fee-base",
+    "category": "literacy",
+    "source": "https://www.investor.gov/introduction-investing/getting-started/understanding-fees",
+    "de": {
+      "title": "Worauf fällt die Gebühr an?",
+      "body": "Ein Beispieldepot von 10.000 Euro zahlt 0,6 Prozent jährlich auf seinen Wert. Bei konstanter Bemessungsgrundlage sind das 60 Euro pro Jahr. Eine fixe Gebühr von 3 Euro pro Monat ergibt 36 Euro. Bei 6.000 Euro wären beide Modelle in diesem vereinfachten Beispiel gleich teuer.",
+      "question": "Welche Kostenpositionen fehlen noch, bevor man zwei echte Preislisten vergleichen kann?"
+    },
+    "en": {
+      "title": "What amount is the fee based on?",
+      "body": "A model portfolio worth €10,000 pays 0.6% a year on its value. With a constant fee base that is €60 per year. A flat €3 monthly charge adds up to €36. At €6,000 the two charges would be equal in this simplified example.",
+      "question": "Which other charges would you check before comparing two actual fee schedules?"
+    }
+  },
+  {
+    "id": "inventory-turns",
+    "category": "equity",
+    "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "de": {
+      "title": "Wie oft schlägt das Lager um?",
+      "body": "Ein Beispielbetrieb hat Waren zu Einstandskosten von 240.000 Euro verkauft. Der Lagerbestand lag zu Jahresbeginn bei 40.000 und am Ende bei 80.000 Euro. Gemessen am Mittel der beiden Stichtage schlägt das Lager viermal um (240.000 geteilt durch 60.000).",
+      "question": "Wie könnte ein saisonaler Lageraufbau deinen Vergleich mit einem anderen Händler verzerren?"
+    },
+    "en": {
+      "title": "How often does the inventory turn over?",
+      "body": "A model business sells goods that cost €240,000. Inventory is €40,000 at the start of the year and €80,000 at the end. Using the average of the two balances gives four inventory turns (€240,000 divided by €60,000).",
+      "question": "How could seasonal stocking distort a comparison with another retailer?"
+    }
+  },
+  {
+    "id": "present-value",
+    "category": "valuation",
+    "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/background/valintro.htm",
+    "de": {
+      "title": "100 Euro in drei Jahren",
+      "body": "Eine einzelne, angenommene Zahlung von 100 Euro in drei Jahren hat bei 5 Prozent jährlichem Diskontsatz einen heutigen Wert von rund 86,38 Euro. Die Rechnung lautet 100 / 1,05³. Bei 8 Prozent sind es rund 79,38 Euro. Der Zahlungsbetrag bleibt in beiden Fällen gleich.",
+      "question": "Welche Annahme hat hier die Bewertung verändert?"
+    },
+    "en": {
+      "title": "A €100 payment three years from now",
+      "body": "A hypothetical single payment of €100 in three years has a present value of about €86.38 at a 5% annual discount rate, calculated as 100 / 1.05³. At 8% it is worth about €79.38 today. The assumed payment stays the same.",
+      "question": "Which input changed the valuation?"
+    }
+  },
+  {
+    "id": "bitcoin-confirmations",
+    "category": "crypto",
+    "source": "https://developer.bitcoin.org/devguide/payment_processing.html",
+    "de": {
+      "title": "Eine Bitcoin-Bestätigung zählen",
+      "body": "Eine Transaktion im ersten Block, der sie enthält, hat eine Bestätigung. Jeder darauf aufbauende Block erhöht die Zahl um eins. Eine Meldung über eine im Netzwerk verbreitete Transaktion allein belegt noch keine Aufnahme in einen Block.",
+      "question": "Suche in einem öffentlichen Beispiel den Block der Zahlung und zähle den Aufnahmeblock mit."
+    },
+    "en": {
+      "title": "Count a Bitcoin confirmation",
+      "body": "A transaction has one confirmation when it is included in a block. Each subsequent block built on it adds one. Seeing a transaction broadcast on the network alone does not establish inclusion in a block.",
+      "question": "In a public example, find the payment’s block and count that block when working out confirmations."
+    }
+  },
+  {
+    "id": "limit-order",
+    "category": "risk",
+    "source": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders",
+    "de": {
+      "title": "Ein Limit ist eine Preisgrenze",
+      "body": "Eine fiktive Kauforder für 100 Aktien hat ein Limit von 25 Euro. Solange nur zu 25,20 Euro verkauft wird, kann sie dort nicht ausgeführt werden. Selbst wenn ein letzter Handel zu 25 Euro angezeigt wird, sind dir 100 Stück zu diesem Preis nicht zugesichert.",
+      "question": "Welche Information fehlt dir neben dem zuletzt gehandelten Kurs?"
+    },
+    "en": {
+      "title": "A limit sets a price boundary",
+      "body": "A hypothetical order to buy 100 shares has a €25 limit. While the only sellers are asking €25.20, it cannot execute at that price. Even if the last trade shows €25, that does not guarantee 100 shares are available to you there.",
+      "question": "What information is missing from the last traded price?"
+    }
+  },
+  {
+    "id": "compounding",
+    "category": "literacy",
+    "source": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+    "de": {
+      "title": "Zinsen auf die ersten Zinsen",
+      "body": "Bei angenommenen 5 Prozent Zins pro Jahr werden aus 1.000 Euro nach einem Jahr 1.050 Euro. Bleiben die Zinsen auf dem Konto, sind es nach zwei Jahren 1.102,50 Euro. Die zusätzlichen 2,50 Euro entstehen durch Zinsen auf die ersten 50 Euro. Gebühren und Steuern bleiben im Beispiel außen vor.",
+      "question": "Wie hoch wäre das Kontoguthaben, wenn du die Zinsen jedes Jahr vollständig entnimmst?"
+    },
+    "en": {
+      "title": "Interest on the first year’s interest",
+      "body": "At an assumed 5% annual rate, €1,000 becomes €1,050 after one year. Leave the interest in the account and the two-year balance is €1,102.50. The extra €2.50 is interest on the first €50. This example excludes fees and taxes.",
+      "question": "What balance would remain in the account if you withdrew all interest each year?"
+    }
+  },
+  {
+    "id": "risk-section",
+    "category": "equity",
+    "source": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read",
+    "de": {
+      "title": "Ein Geschäftsrisiko im Bericht verfolgen",
+      "body": "Im US-Jahresbericht Form 10-K beschreibt Item 1A wesentliche Risiken. Angenommen, ein Hersteller nennt die Abhängigkeit von einem Großkunden. Markiere die Passage und suche im Bericht nach Angaben zum Umsatzanteil dieses Kunden. Bleibt die Zahl offen, vermerke das in deiner Analyse.",
+      "question": "Welche Veränderung in der nächsten Berichtsperiode würde deine Einschätzung verbessern?"
+    },
+    "en": {
+      "title": "Trace a business risk through a filing",
+      "body": "Item 1A of a US Form 10-K describes material risks. Suppose a manufacturer flags reliance on a major customer. Mark that passage and look for the customer’s share of revenue elsewhere in the filing. If you cannot find a figure, record the gap.",
+      "question": "What new disclosure next period would improve your assessment?"
+    }
+  },
+  {
+    "id": "terminal-growth",
+    "category": "valuation",
+    "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/terminalvalue.htm",
+    "de": {
+      "title": "Wie empfindlich ist der Restwert?",
+      "body": "Im vereinfachten Modell einer ewigen Rente mit konstantem Wachstum beträgt der Cashflow des ersten Folgejahres 6 Mio. Euro. Bei 8 Prozent Diskontsatz und 2 Prozent Wachstum ergibt 6 / (0,08 − 0,02) einen Restwert von 100 Mio. Euro am Ende der Detailplanung. Bei 3 Prozent Wachstum werden daraus 120 Mio.",
+      "question": "Welcher Teil deiner Bewertung hängt von dieser langfristigen Annahme ab?"
+    },
+    "en": {
+      "title": "How sensitive is terminal value?",
+      "body": "In a simplified constant-growth perpetuity, cash flow in the first year after the forecast is €6m. At an 8% discount rate and 2% growth, 6 / (0.08 − 0.02) gives a €100m terminal value at the end of the forecast period. With 3% growth it becomes €120m.",
+      "question": "How much of your valuation depends on that long-term assumption?"
+    }
+  },
+  {
+    "id": "price-oracle",
+    "category": "crypto",
+    "source": "https://ethereum.org/developers/docs/oracles/",
+    "de": {
+      "title": "Woher kennt ein Smart Contract den Kurs?",
+      "body": "Ein Ethereum-Vertrag, der eine Zahlung an den Eurokurs koppelt, braucht einen Weg, externe Daten zu erhalten. Ein Orakel stellt diese Daten auf der Blockchain bereit. Eine korrekt ausgeführte Formel kann mit einem veralteten Eingangswert ein unbrauchbares Ergebnis liefern.",
+      "question": "Welche Datenquelle und welchen Zeitstempel würdest du beim Lesen der Dokumentation suchen?"
+    },
+    "en": {
+      "title": "How does a smart contract know an exchange rate?",
+      "body": "An Ethereum contract that ties a payment to a euro exchange rate needs a way to receive external data. An oracle makes those data available onchain. A formula can execute correctly and still produce an unusable result if its input is stale.",
+      "question": "Which data source and timestamp would you look for in the documentation?"
+    }
+  },
+  {
+    "id": "weight-drift",
+    "category": "risk",
+    "source": "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+    "de": {
+      "title": "Wie aus 60 Prozent fast 70 werden",
+      "body": "Ein fiktives Depot startet mit 60 Euro in Aktien und 40 Euro in Anleihen. Steigt nur der Aktienanteil auf 90 Euro, liegt sein Gewicht bei 90/130 oder rund 69 Prozent. Der Risikomix hat sich ohne einen einzigen Handel verschoben.",
+      "question": "Wie viel neues Geld müsste allein in Anleihen fließen, damit der Aktienanteil wieder 60 Prozent beträgt?"
+    },
+    "en": {
+      "title": "How 60% becomes almost 70%",
+      "body": "A model portfolio starts with €60 of stocks and €40 of bonds. If only the stocks rise to €90, their weight becomes 90/130, or about 69%. The portfolio mix changed without a single trade.",
+      "question": "How much new money would have to go into bonds alone to restore a 60% stock weight?"
+    }
+  },
+  {
+    "id": "bond-coupon",
+    "category": "literacy",
+    "source": "https://www.finra.org/investors/insights/bond-yield-return",
+    "de": {
+      "title": "Warum ein 4-Prozent-Kupon mehr als 4 Prozent abwerfen kann",
+      "body": "Eine fiktive Anleihe mit 1.000 Euro Nennwert zahlt jährlich 40 Euro. Zum Kaufpreis von 950 Euro beträgt die laufende Verzinsung rund 4,21 Prozent. Für die Rendite bis zur Fälligkeit zählen zusätzlich der spätere Rückzahlungsbetrag und der Zeitpunkt der Zahlungen.",
+      "question": "Welche der beiden Renditeangaben siehst du im Datenblatt?"
+    },
+    "en": {
+      "title": "How a 4% coupon can produce a current yield above 4%",
+      "body": "A hypothetical bond with a €1,000 face value pays €40 a year. At a purchase price of €950, the current yield is about 4.21%. Yield to maturity also accounts for the redemption amount and the timing of payments.",
+      "question": "Which of these two yield measures appears on the factsheet?"
+    }
+  },
+  {
+    "id": "diluted-eps",
+    "category": "equity",
+    "source": "https://www.ifrs.org/issued-standards/list-of-standards/ias-33-earnings-per-share.html/",
+    "de": {
+      "title": "Woher kommt das zweite Ergebnis je Aktie?",
+      "body": "Ein IFRS-Abschluss kann neben dem unverwässerten ein niedrigeres verwässertes Ergebnis je Aktie ausweisen. Bei der verwässerten Rechnung können beispielsweise Wandelanleihen berücksichtigt werden. Suche in der Überleitung sowohl nach zusätzlichen Aktien als auch nach einer möglichen Anpassung des Gewinns.",
+      "question": "Welche Zahl würdest du bei einem Vergleich über mehrere Jahre konsistent verwenden?"
+    },
+    "en": {
+      "title": "Why is there a second earnings-per-share figure?",
+      "body": "An IFRS report can show diluted earnings per share below basic EPS. For example, diluted EPS may reflect convertible debt. In the reconciliation, look for both extra shares and a possible adjustment to the earnings figure.",
+      "question": "Which measure would you use consistently when comparing several years?"
+    }
+  },
+  {
+    "id": "book-market",
+    "category": "valuation",
+    "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/background/valintro.htm",
+    "de": {
+      "title": "Was bedeutet ein Kurs-Buchwert-Verhältnis von zwei?",
+      "body": "Für ein vereinfachtes Unternehmen mit nur Stammaktien beträgt der Börsenwert 80 Mio. Euro. In der Bilanz stehen 40 Mio. Euro Eigenkapital der Stammaktionäre. Das ergibt ein Kurs-Buchwert-Verhältnis von 2. Um die Zahl zu deuten, untersuche, welche Erträge das Unternehmen mit diesem Kapital erwirtschaftet.",
+      "question": "Welche Annahme über die künftige Rentabilität müsstest du für einen Vergleich prüfen?"
+    },
+    "en": {
+      "title": "What does a price-to-book ratio of two tell you?",
+      "body": "A simplified company with only common shares has an €80m market cap and €40m of common book equity. Its price-to-book ratio is 2. To interpret that figure, investigate the earnings the company generates on its capital.",
+      "question": "What assumption about future profitability would you need to examine for a comparison?"
+    }
+  },
+  {
+    "id": "stablecoin-redemption",
+    "category": "crypto",
+    "source": "https://ethereum.org/stablecoins/",
+    "de": {
+      "title": "Was stützt den Zielkurs eines Stablecoins?",
+      "body": "Ein Token mit einem Zielwert von einem US-Dollar kann sich auf Reserven stützen. Prüfe, welche Vermögenswerte die Reserve bilden, wer Token einlösen darf und unter welchen Bedingungen das möglich ist. Der angezeigte Börsenkurs beantwortet keine dieser Fragen.",
+      "question": "Welche dieser Angaben lässt sich direkt aus den veröffentlichten Bedingungen belegen?"
+    },
+    "en": {
+      "title": "What supports a stablecoin’s target price?",
+      "body": "A token targeting one US dollar may rely on reserves. Check which assets make up the reserves, who can redeem the token and on what terms. The quoted market price alone cannot answer those questions.",
+      "question": "Which of these points can you verify directly in the published terms?"
+    }
+  },
+  {
+    "id": "overlap",
+    "category": "risk",
+    "source": "https://www.finra.org/investors/insights/concentration-risk",
+    "de": {
+      "title": "Die gleiche Aktie in zwei Fonds entdecken",
+      "body": "Je die Hälfte eines fiktiven Depots steckt in Fonds A und B. Dieselbe Aktie hat in A ein Gewicht von 8 Prozent und in B von 2 Prozent. Durchgerechnet entfallen 5 Prozent des Depots auf diese Aktie (0,5 × 8 Prozent plus 0,5 × 2 Prozent).",
+      "question": "Haben die beiden Bestandslisten denselben Stichtag?"
+    },
+    "en": {
+      "title": "Spot the same stock in two funds",
+      "body": "A model portfolio is split equally between funds A and B. The same stock makes up 8% of A and 2% of B. Its combined weight is 5% of the portfolio (0.5 × 8% plus 0.5 × 2%).",
+      "question": "Are the two holdings lists from the same date?"
+    }
+  },
+  {
+    "id": "filing-trail",
+    "category": "literacy",
+    "source": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read",
+    "de": {
+      "title": "Eine Schlagzeile bis zur Quelle verfolgen",
+      "body": "Eine Meldung berichtet von 20 Prozent mehr Jahresumsatz. Öffne bei einem US-Berichterstatter das passende Form 10-K und suche die Umsatzzeile im geprüften Abschluss. Notiere Geschäftsjahr, Vorjahreswert, Währung und Einheit. Rechne die Veränderung aus, bevor du die Schlagzeile übernimmst.",
+      "question": "Welchen Unterschied würde es machen, wenn sich die Meldung nur auf ein Segment bezöge?"
+    },
+    "en": {
+      "title": "Trace a headline back to a filing",
+      "body": "Imagine a headline saying annual sales rose 20%. For a US issuer that files Form 10-K, find the sales line in its audited statements. Note the fiscal year, prior-year figure, currency and units. Recalculate the change before quoting the headline.",
+      "question": "How would your conclusion change if the headline referred to just one segment?"
+    }
+  },
+  {
+    "id": "adjusted-profit",
+    "category": "equity",
+    "source": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures",
+    "de": {
+      "title": "Was wurde beim bereinigten Gewinn herausgerechnet?",
+      "body": "Ein fiktiver US-Emittent meldet 9 Mio. Dollar operativen Gewinn nach GAAP und 14 Mio. Dollar auf bereinigter Basis. Suche die Überleitungsrechnung. Ordne die 5 Mio. Dollar Differenz konkreten Posten zu und prüfe in älteren Berichten, wie oft dieselbe Art von Aufwand bereits bereinigt wurde.",
+      "question": "Welcher Posten erklärt den größten Teil der Differenz?"
+    },
+    "en": {
+      "title": "What was removed from adjusted profit?",
+      "body": "A fictional US issuer reports $9m of GAAP operating profit and $14m on an adjusted basis. Find the reconciliation. Match the $5m gap to specific items, then check earlier reports for how often similar expenses were adjusted away.",
+      "question": "Which item accounts for the largest part of the difference?"
+    }
+  },
+  {
+    "id": "cash-flow-claim",
+    "category": "valuation",
+    "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/background/valintro.htm",
+    "de": {
+      "title": "Wessen Zahlungsstrom bewertest du?",
+      "body": "Ein Bewertungsmodell setzt bei Zahlungen an alle Kapitalgeber an. Dazu passt ein Diskontsatz für das gesamte finanzierende Kapital. Ein Modell für Zahlungen allein an Eigenkapitalgeber verwendet die Eigenkapitalkosten. Vermischt man die beiden Ansätze, lässt sich das Ergebnis nicht sauber zuordnen.",
+      "question": "Beschrifte in einem Modell die Cashflow-Zeile und den Diskontsatz mit dem jeweiligen Anspruchsinhaber."
+    },
+    "en": {
+      "title": "Whose cash flow are you valuing?",
+      "body": "A model can start with cash flows available to all providers of capital. Those flows belong with a discount rate for the overall financing mix. A model using cash flows available only to equity holders uses the cost of equity. Mixing the approaches muddles the result.",
+      "question": "Label the cash-flow line and the discount rate in a model with the claimholders each belongs to."
+    }
+  },
+  {
+    "id": "bridge-trust",
+    "category": "crypto",
+    "source": "https://ethereum.org/developers/docs/bridges/",
+    "de": {
+      "title": "Was passiert mit einem Token auf einer Bridge?",
+      "body": "Bei einem möglichen Brückenmodell wird ein Token auf der Ausgangskette gesperrt. Auf der Zielkette entsteht eine entsprechende Repräsentation. Für die Rückgabe ist entscheidend, unter welchen Bedingungen die gesperrten Token wieder freigegeben werden.",
+      "question": "Skizziere für ein dokumentiertes Beispiel, wer die Freigabe prüft und was bei einem Ausfall passiert."
+    },
+    "en": {
+      "title": "What happens to a token on a bridge?",
+      "body": "In one bridge design, a token is locked on the source chain and a representation is issued on the destination chain. To understand redemption, find out what conditions must be met to unlock the original tokens.",
+      "question": "For a documented example, sketch who verifies the unlock and what happens if that mechanism fails."
+    }
+  },
+  {
+    "id": "time-horizon",
+    "category": "risk",
+    "source": "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+    "de": {
+      "title": "Das gleiche Depot, zwei Zahlungstermine",
+      "body": "Vergleiche eine fest vereinbarte Zahlung in sechs Monaten mit einer geplanten Ausgabe in fünfzehn Jahren. Ein Kursverlust unmittelbar vor der ersten Zahlung lässt wenig Zeit, einen Verkauf zu verschieben. Der Termin ist damit ein eigener Teil der Risikoanalyse.",
+      "question": "Welche deiner Annahmen würde sich ändern, wenn der frühere Termin um zwei Jahre verschiebbar wäre?"
+    },
+    "en": {
+      "title": "One portfolio, two spending dates",
+      "body": "Compare a payment due in six months with an expense planned for fifteen years from now. A market fall just before the first payment leaves little time to postpone selling. The payment date itself belongs in the risk assessment.",
+      "question": "Which assumption would change if the earlier payment could be postponed by two years?"
+    }
+  },
+  {
+    "id": "total-return",
+    "category": "literacy",
+    "source": "https://www.finra.org/investors/investing/investing-basics/evaluating-performance",
+    "de": {
+      "title": "Kursverlauf und Gesamtertrag auseinanderhalten",
+      "body": "Eine fiktive Aktie kostet anfangs 50 Euro, zahlt während des Jahres 2 Euro Dividende und steht am Ende bei 49 Euro. Ohne Wiederanlage, Gebühren und Steuern beträgt der Gesamtertrag (49 + 2 − 50) / 50 = 2 Prozent. Allein der Kurs ist um 2 Prozent gefallen.",
+      "question": "Berücksichtigt die Vergleichskurve in deiner Grafik ausgeschüttete Dividenden?"
+    },
+    "en": {
+      "title": "Separate price change from total return",
+      "body": "A hypothetical share starts at €50, pays a €2 dividend during the year and ends at €49. Excluding reinvestment, fees and taxes, total return is (49 + 2 − 50) / 50 = 2%. The share price alone fell 2%.",
+      "question": "Does the comparison series in your chart include dividends paid out?"
+    }
+  },
+  {
+    "id": "working-capital",
+    "category": "equity",
+    "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "de": {
+      "title": "Wie viel steckt im kurzfristigen Geschäft?",
+      "body": "Bei einem Beispielunternehmen stehen 90.000 Euro Umlaufvermögen und 65.000 Euro kurzfristige Verbindlichkeiten in der Bilanz. Das Working Capital beträgt 25.000 Euro. Ein Teil davon kann in Vorräten stecken, die erst verkauft und bezahlt werden müssen.",
+      "question": "Welche Position würdest du genauer ansehen, wenn nächste Woche eine Rechnung fällig wird?"
+    },
+    "en": {
+      "title": "How much is tied up in short-term operations?",
+      "body": "A model business reports €90,000 of current assets and €65,000 of current liabilities. Its working capital is €25,000. Some of that may be tied up in stock that still has to be sold and paid for.",
+      "question": "Which line would you examine more closely if a bill were due next week?"
+    }
+  },
+  {
+    "id": "market-cap",
+    "category": "valuation",
+    "source": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-capitalization",
+    "de": {
+      "title": "Welche Firma ist an der Börse größer?",
+      "body": "Firma A hat im Rechenbeispiel 10 Mio. Aktien zu je 8 Euro. Firma B hat 1 Mio. Aktien zu je 60 Euro. Aus Kurs mal ausstehenden Aktien ergeben sich 80 Mio. Euro für A und 60 Mio. Euro für B. Der niedrigere Stückpreis gehört hier zur größeren Marktkapitalisierung.",
+      "question": "Welche zweite Zahl brauchst du also, wenn dir jemand nur einen Aktienkurs nennt?"
+    },
+    "en": {
+      "title": "Which company is larger by market value?",
+      "body": "In this example, company A has 10m shares at €8 each. Company B has 1m shares at €60 each. Price times shares outstanding gives €80m for A and €60m for B. The lower share price belongs to the larger company by market cap.",
+      "question": "What second figure do you need when someone quotes only the share price?"
+    }
+  },
+  {
+    "id": "token-allowance",
+    "category": "crypto",
+    "source": "https://ethereum.org/guides/how-to-revoke-token-access",
+    "de": {
+      "title": "Was bleibt nach dem Trennen einer Wallet bestehen?",
+      "body": "Eine ERC-20-Freigabe erlaubt einer angegebenen Adresse, Token bis zur freigegebenen Menge zu übertragen. Das Trennen der Wallet von der Website hebt diese Onchain-Freigabe allein nicht auf. Eine Ausgabenfreigabe hat also einen eigenen Empfänger und eine eigene Höhe.",
+      "question": "Welche Adresse und welchen Betrag würdest du in einer bestehenden Freigabe nachlesen?"
+    },
+    "en": {
+      "title": "What remains after a wallet disconnects?",
+      "body": "An ERC-20 allowance lets a specified address transfer tokens up to the approved amount. Disconnecting a wallet from a website alone does not revoke that onchain allowance. A spending approval has its own spender and amount.",
+      "question": "Which address and amount would you look up in an existing approval?"
+    }
+  },
+  {
+    "id": "loss-recovery",
+    "category": "risk",
+    "source": "https://www.finra.org/investors/investing/investing-basics/evaluating-performance",
+    "de": {
+      "title": "Warum auf minus 20 Prozent plus 25 folgen müssen",
+      "body": "Ein fiktives Depot fällt von 100 auf 80 Euro. Um die ursprünglichen 100 wieder zu erreichen, fehlen 20 Euro. Bezogen auf die verbleibenden 80 sind das 25 Prozent. Ein anschließendes Plus von 20 Prozent brächte das Depot nur auf 96 Euro.",
+      "question": "Welche Erholung wäre nach einem Rückgang von 100 auf 60 Euro nötig?"
+    },
+    "en": {
+      "title": "Why a 20% loss takes a 25% gain to recover",
+      "body": "A model portfolio falls from €100 to €80. It needs €20 to regain its starting value. Relative to the remaining €80, that is 25%. A subsequent 20% gain would take it only to €96.",
+      "question": "What gain would restore the starting value after a fall from €100 to €60?"
+    }
+  },
+  {
+    "id": "annualised",
+    "category": "literacy",
+    "source": "https://www.finra.org/investors/investing/investing-basics/evaluating-performance",
+    "de": {
+      "title": "Zwei Jahre auf eine Jahresrate umrechnen",
+      "body": "Ohne Ein- oder Auszahlungen wächst ein Beispielbetrag in zwei Jahren von 100 auf 121 Euro. Die Gesamtrendite ist 21 Prozent. Die gleichmäßige Jahresrate, die zum selben Endwert führt, beträgt 10 Prozent (100 × 1,10 × 1,10 = 121).",
+      "question": "Warum würde eine Rechnung mit 21 geteilt durch zwei ein anderes Ergebnis liefern?"
+    },
+    "en": {
+      "title": "Convert a two-year return to an annual rate",
+      "body": "With no deposits or withdrawals, a model balance grows from €100 to €121 in two years. Total return is 21%. The constant annual rate that produces the same ending value is 10% (100 × 1.10 × 1.10 = 121).",
+      "question": "Why would dividing 21 by two give a different result?"
+    }
+  }
+]
