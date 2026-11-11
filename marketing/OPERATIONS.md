@@ -221,3 +221,10 @@ Master 33.48 s, 1080×1920, 25 fps, H.264/AAC, eight synchronized German caption
 - MarketPulse_GewinnJeAktie_DE.mp4 — `libfile_fde3_f-c472e4a5095481919e61378d2c6ce324_d045e4cd0d248191a4a4759b90613215`
 - MarketPulse_GewinnJeAktie_Cover.jpg — `libfile_fde3_f-7fde3881477481918e3c3253932d7ba7_d045e4cd0d248191a4a4759b90613215`
 - MarketPulse_GewinnJeAktie_DE_Begleitmaterial.zip (script, narration, captions, QA and Studio receipt) — `libfile_fde3_f-b70bff48ad9881918b6ee2089b13dcd3_d045e4cd0d248191a4a4759b90613215`
+
+
+## 2026-11-11 — TikTok — project sign-in required
+
+Studio showed five public posts on @marketpulseelite_de. Latest was the German EPS clip [7706616891749502230](https://www.tiktok.com/@marketpulseelite_de/video/7706616891749502230), dated 10 Nov 19:49. No scheduled row appeared. The upload area redirected to TikTok login, preventing completion of the draft check. No clip rendered or submitted, no new media IDs or upload ID. The profile editor accepted the proposed display name MarketPulse Elite but confirmation produced an Account status warning instructing the owner to contact support or log in and change the password. Rename not verified. Verify the existing display name after sign-in before any further edit. No telephone verification attempted. TikTok task paused pending restored project access.
+
+English editorial draft for the next eligible post, calendar day 6. Working title: “What happens at fifty dollars?” Narration: “Suppose a stock on your watchlist hits fifty dollars. Before you check the chart, check what you actually set up. A price alert tells you the level was reached. A buy limit order gives your broker an instruction to buy at fifty dollars or less. The order can still go unfilled. On your watchlist, write down the question you want to investigate when the alert arrives. Find our free market explainers at the Telegram addresses in our profile.” Illustrative price. [SEC Investor.gov, Types of Orders](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders), consulted 11 Nov 2026. Resume with a fresh inventory and language check before production.
