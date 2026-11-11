@@ -20,8 +20,9 @@
       },
       "delivery": {
         "de": {
-          "status": "reserved",
-          "claim": "677b72afc0824919a640f92b61f21140"
+          "status": "sent",
+          "claim": "677b72afc0824919a640f92b61f21140",
+          "message_id": 9
         },
         "en": {
           "status": "pending"
