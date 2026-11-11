@@ -1,5 +1,32 @@
 {
   "schema": 1,
   "legacy_through": "2026-11-10",
-  "days": {}
+  "days": {
+    "2026-11-11": {
+      "topic": {
+        "id": "operating-margin",
+        "category": "equity",
+        "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+        "de": {
+          "title": "Was bleibt von einem Euro Umsatz?",
+          "body": "Ein fiktives Unternehmen steigert den Umsatz von 100 auf 120 Mio. Euro. Sein operativer Gewinn bleibt bei 12 Mio. Euro. Damit sinkt die operative Marge von 12 auf 10 Prozent. Jeder Euro Umsatz trägt jetzt weniger zum operativen Gewinn bei.",
+          "question": "Welche Kostenzeile würdest du im Jahresbericht zuerst vergleichen?"
+        },
+        "en": {
+          "title": "What does each euro of sales earn?",
+          "body": "A fictional company grows sales from €100m to €120m and earns €12m in operating profit in both years. Its operating margin falls from 12% to 10%. Each euro of sales now contributes less operating profit.",
+          "question": "Which expense line would you compare first in the annual report?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "677b72afc0824919a640f92b61f21140"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
+    }
+  }
 }
