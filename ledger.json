@@ -54,8 +54,9 @@
           "message_id": 10
         },
         "en": {
-          "status": "reserved",
-          "claim": "95a9d3696a144f888779ca757297590b"
+          "status": "sent",
+          "claim": "95a9d3696a144f888779ca757297590b",
+          "message_id": 10
         }
       }
     }
