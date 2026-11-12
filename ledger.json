@@ -30,6 +30,32 @@
           "message_id": 9
         }
       }
+    },
+    "2026-11-12": {
+      "topic": {
+        "id": "pe-window",
+        "category": "valuation",
+        "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+        "de": {
+          "title": "Welcher Gewinn steckt im KGV?",
+          "body": "Bei einem Beispielkurs von 48 Euro und 4 Euro Gewinn je Aktie aus dem letzten Geschäftsjahr beträgt das KGV 12. Mit einer Schätzung von 3 Euro für das kommende Jahr ergibt sich 16. Der Aktienkurs ist in beiden Rechnungen derselbe.",
+          "question": "Schau bei zwei KGV-Angaben zuerst nach dem Bezugsjahr und danach, ob der Gewinn bereits feststeht."
+        },
+        "en": {
+          "title": "Which earnings are in the P/E?",
+          "body": "At a hypothetical price of €48, earnings of €4 per share for the last fiscal year give a P/E of 12. Use a forecast of €3 for next year and the multiple becomes 16. The share price is identical in both calculations.",
+          "question": "When two P/E figures differ, check the earnings period and whether the earnings are reported or forecast."
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "c127ae8b7e8646c2b455362097fb9720"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
