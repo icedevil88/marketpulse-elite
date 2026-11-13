@@ -59,6 +59,32 @@
           "message_id": 10
         }
       }
+    },
+    "2026-11-13": {
+      "topic": {
+        "id": "bitcoin-change",
+        "category": "crypto",
+        "source": "https://developer.bitcoin.org/devguide/transactions.html",
+        "de": {
+          "title": "Warum hat die Bitcoin-Zahlung zwei Ausgänge?",
+          "body": "Eine fiktive Transaktion verwendet einen noch nicht ausgegebenen Transaktionsausgang im Wert von 0,010 BTC. Davon gehen 0,006 BTC an den Empfänger und 0,0039 BTC als Wechselgeld zurück. Die Differenz von 0,0001 BTC ist die Gebühr.",
+          "question": "Was würdest du fälschlich als Kaufpreis verbuchen, wenn du nur den Eingang ansiehst?"
+        },
+        "en": {
+          "title": "Why does a Bitcoin payment have two outputs?",
+          "body": "A fictional transaction spends one unspent output worth 0.010 BTC. The recipient gets 0.006 BTC and 0.0039 BTC returns as change. The 0.0001 BTC difference is the fee.",
+          "question": "What amount might you mistake for the purchase price if you looked only at the input?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "3bd2c5aa5e624d408d25068700d71fdb"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
