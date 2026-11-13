@@ -233,3 +233,60 @@ English editorial draft for the next eligible post, calendar day 6. Working titl
 ## 2026-11-12 — TikTok account suspended again
 
 The user reports that the project account was suspended again. This is a user-reported account restriction. The latest browser sign-in had reached an email identity check, without confirmed access to @marketpulseelite_de. No new video uploaded or published. The TikTok publishing task remains paused. The English watchlist/alert draft from 11 November is retained. Resume only after restored project access is verified, followed by draft, scheduled and public inventory checks.
+
+
+## 2026-11-13 — TikTok target access unconfirmed — English brief retained
+
+### Account and publication status
+
+Fresh TikTok Studio inspection showed @icedevil88 in the profile menu. No account switch option was offered in that menu. The target @marketpulseelite_de inventory, drafts, scheduled posts and analytics could not be inspected. The user's report that the mobile app still works does not establish access in this browser or target upload permission. No target suspension was independently confirmed today. No upload, new upload ID, rendered master or new media file IDs this run. The latest confirmed target post in this log remains DE EPS 7706616891749502230, 10 Nov 19:49. Next proposed language is English, subject to a fresh target inventory. Task 6aeb7f0e1bc8819199e82303283545a5 was paused pending confirmed project access.
+
+### Editorial continuation
+
+Read Content_Workflow_2026-11-13.html, version 0, Library file libfile_fde3_f-0d3391d702388191b0f3f46c616f235b_d045e4cd0d248191a4a4759b90613215, including MP01–MP10 and the English MP01 draft. MP01 is provisionally 10/10 in that catalog, with target duplicate and language checks still open. Continue the existing 11 November watchlist brief first. Format is two terms, difference, example. Provisional editorial assessment for that existing brief is curiosity 2, clarity 2, originality 1, free feasibility 2, series fit 2 = 9/10. Originality remains provisional because target inventory is inaccessible. Demand and measured performance are unknown. No observed competitor pattern or performance prediction is claimed. Existing finance references in the workflow are metadata/research anchors, not full video reviews.
+
+### Reviewable English production brief
+
+Audience is beginning English-speaking stock investors using watchlists. The question is what a fifty-dollar threshold actually does. The payoff is to distinguish a notification from a broker order and to record a research question before acting. Calendar connection is day 6, watchlists. Illustrative amount, general education.
+
+Three opening candidates:
+- A. “Your watchlist hits fifty dollars. What happens next?”
+- B. “A price alert and a buy order can use the same number.”
+- C. “Before you set fifty dollars, check which tool you selected.”
+
+Three title candidates:
+- A. “What Happens When Your Watchlist Hits $50?”
+- B. “Price Alert or Buy Limit Order?”
+- C. “Same Price, Different Instruction”
+
+Choose opening A and title B. The opening poses a concrete question, and the title names the two concepts answered in the first half. This is an editorial choice with no measured retention evidence.
+
+Narration and caption beats:
+1. “Your watchlist hits fifty dollars. What happens next?”
+2. “Check what you set up.”
+3. “A price alert sends a notification when its condition is met.”
+4. “A buy limit order instructs your broker to buy at fifty dollars or less.”
+5. “That order can still go unfilled.”
+6. “On your watchlist, write the question you want to investigate when the alert arrives.”
+7. “This is an illustrative example.”
+8. “For more free explainers, find the Telegram addresses in our profile.”
+
+Provisional picture plan for 30–40 seconds, timing to follow local narration:
+- 0–4 s. Hypothetical watchlist card at $50, persistent “ILLUSTRATIVE EXAMPLE”.
+- 4–12 s. Notification card and bell animation showing the alert condition.
+- 12–20 s. Distinct broker-instruction card showing BUY LIMIT, maximum $50 per share, execution pending.
+- 20–29 s. Research-question card, “What changed in the business?”, then a check of the underlying report.
+- 29–end. Telegram addresses after the explanation. Original Navy/Teal/White/Amber graphics with legible cue-synchronized captions. Use a fresh cover reading “PRICE ALERT / BUY LIMIT”. No simulated real chart or broker execution.
+
+Primary sources checked 13 Nov 2026:
+- SEC, Limit Orders — https://www.sec.gov/answers/limit.htm
+- SEC Investor.gov, Understanding Order Types, investor bulletin published 12 July 2017 — https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-14
+- Investor.gov, Types of Orders — https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders
+
+The buy-limit price condition and unfilled-order risk are supported by the SEC sources. Alert trigger details depend on the chosen app and its configuration. Original narration and motion graphics planned, local Piper en_US-ljspeech-high with telemetry disabled, suitable model rights and hash verification required before synthesis. Free production only. Final caption should disclose AI narration, original animation, illustrative figures, SEC source and both Telegram addresses. TikTok own-brand and AI labels required.
+
+Next eligible slot is the next authorized publication day after restored target access and duplicate checks. Before rendering, verify target inventory and language. Before upload, repeat the inventory, fully decode the export, inspect frames, narration, pronunciation, levels and subtitle synchronization, and verify the target account. This brief remains a draft.
+
+### Measurement record
+
+As of 13 Nov 2026, target analytics are inaccessible. The 10 Nov EPS video is approximately three days old. Its historical 48-hour snapshot is missing. Start post 7704390833612557591 and 5 Nov revenue post 7704754341671947542 are old enough for seven-day review, but their target metrics remain unavailable. Views, watch duration, completion rate, shares, profile visits, follows, measured link clicks and attributable Telegram joins are unknown. No zero values entered, no historical snapshots reconstructed and no experimental winner declared.
