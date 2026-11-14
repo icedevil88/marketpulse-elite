@@ -88,6 +88,32 @@
           "message_id": 11
         }
       }
+    },
+    "2026-11-14": {
+      "topic": {
+        "id": "position-weight",
+        "category": "risk",
+        "source": "https://www.finra.org/investors/insights/concentration-risk",
+        "de": {
+          "title": "Ein Kursverlust, zwei verschiedene Folgen",
+          "body": "In einem fiktiven Depot macht eine Aktie 8 Prozent aus. Halbiert sich ihr Kurs und bleiben alle anderen Positionen gleich, verliert das Depot 4 Prozent. Bei 20 Prozent Gewicht wären es 10 Prozent. Diese Rechnung beschreibt ein Szenario und enthält keine Kursprognose.",
+          "question": "Welche zwei Zahlen brauchst du für denselben Stresstest bei einer anderen Position?"
+        },
+        "en": {
+          "title": "One price drop, two portfolio outcomes",
+          "body": "A stock accounts for 8% of a hypothetical portfolio. If it halves in price and everything else holds steady, the portfolio loses 4%. With a 20% starting weight, the loss would be 10%. This is a scenario calculation.",
+          "question": "Which two numbers would you need to run the same stress test on another holding?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "d4ef746fd8f645d58868ec0c7adbf2e9"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
