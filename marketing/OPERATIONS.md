@@ -290,3 +290,34 @@ Next eligible slot is the next authorized publication day after restored target 
 ### Measurement record
 
 As of 13 Nov 2026, target analytics are inaccessible. The 10 Nov EPS video is approximately three days old. Its historical 48-hour snapshot is missing. Start post 7704390833612557591 and 5 Nov revenue post 7704754341671947542 are old enough for seven-day review, but their target metrics remain unavailable. Views, watch duration, completion rate, shares, profile visits, follows, measured link clicks and attributable Telegram joins are unknown. No zero values entered, no historical snapshots reconstructed and no experimental winner declared.
+
+
+## 2026-11-14 — EN TikTok — Price Alert or Buy Limit Order?
+
+Project Google sign-in completed with marketpulseelite@gmail.com. TikTok Studio profile menu positively identified @marketpulseelite_de. Before production and again before upload, Studio showed exactly five prior public posts, latest DE EPS 7706616891749502230 dated 10 Nov 19:49. No matching draft, scheduled row or resume-upload prompt appeared. Continued the 11/13 November English watchlist brief. One master and one upload.
+
+**Public**, ID `7707820693920058626`, [Price Alert or Buy Limit Order?](https://www.tiktok.com/@marketpulseelite_de/video/7707820693920058626). Studio initially showed review, then Everyone and “Nov 14, 1:41 AM” (Studio-displayed time, timezone not asserted). Public post opened in the correct account, playback advanced to 00:13/00:28. Both “Promotional content” and “Creator labeled as AI-generated” visible. Custom cover uploaded and saved. Everyone, Now, own-brand checkbox and AI label verified immediately before submission. Both Telegram addresses, illustrative example and primary source in caption. Precheck found no issues. Next distinct creative is German after inventory checks. Existing TikTok task resumed after access and publication confirmation.
+
+The final 28.16-second master is 1080×1920 H.264/AAC, 25 fps, 48 kHz audio, eight cue-synchronized captions. Local Piper en_US-ljspeech-high, manifest-matched model/config, telemetry disabled. Original graphics, cover and motion. Full decode passed, eight exported frames inspected, AAC measured −16.91 LUFS / −1.43 dBTP. Offline English recognition recovered all spoken words, including $50 per share. No human listening review. No paid calls or promotion. Master SHA-256 `abef41d84b3af3d98949bf076faf412a71fc4925e2d60766655d3efeb39e001c`.
+
+Source checked 14 Nov 2026, [SEC Limit Orders](https://www.sec.gov/answers/limit.htm), last modified 10 March 2011. Buy limit at stated price or lower, execution uncertain. Alert details depend on the chosen app/settings. Hypothetical $50 per share, before fees. Calendar day 6 continued. Editorial score remains 9/10, demand unknown. Existing three titles and openings from the 13 November brief retained, title B and opening A used. Added “per share” to the final narration for clarity.
+
+- Video MarketPulse_Alert_EN.mp4 — `libfile_fde3_f-7b2e72d852088191829a1bf0eabe2576_d045e4cd0d248191a4a4759b90613215`
+- Cover MarketPulse_Alert_Cover.jpg — `libfile_fde3_f-eeb2a8a93fec81918dcf12cb2b8702b0_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Alert_EN_Production.zip — `libfile_fde3_f-9d195aeebcac819191e05bec48cb4103_d045e4cd0d248191a4a4759b90613215`. Includes reproducible renderer, final narration, captions, sources/rights, retained brief, QA and checksums. Package was saved while the upload was in review. This operations entry records subsequent public verification.
+
+Display-name editor allowed submission of “MarketPulse Elite”. Confirmation did not produce a verified saved change. A fresh profile reload still showed “marketpuls”. Username remained @marketpulseelite_de. Further name edits deferred.
+
+### Lifetime measurement snapshot, 14 November 2026
+
+Source TikTok Studio content table, @marketpulseelite_de. Native “Views”, “Likes”, “Comments” totals at observation before new upload. These are current lifetime values. Historical 48h and 7d snapshots are missing.
+
+| Video ID | Published | Approximate age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7706616891749502230 | 10 Nov | 3–4 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | 5–6 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | 6–7 days | 390 | 4 | 0 |
+| 7704754341671947542 | 5 Nov | 8–9 days | 315 | 2 | 0 |
+| 7704390833612557591 | 4 Nov | 9–10 days | 0 | 1 | 0 |
+
+Publication ages use approximate calendar intervals because the Studio timezone is unconfirmed. Watch duration, completion, profile visits, measured link clicks and attributable Telegram joins remain unavailable. No historical-window reconstruction, A/B winner or causal claim.
