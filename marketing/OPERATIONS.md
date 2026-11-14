@@ -321,3 +321,21 @@ Source TikTok Studio content table, @marketpulseelite_de. Native “Views”, �
 | 7704390833612557591 | 4 Nov | 9–10 days | 0 | 1 | 0 |
 
 Publication ages use approximate calendar intervals because the Studio timezone is unconfirmed. Watch duration, completion, profile visits, measured link clicks and attributable Telegram joins remain unavailable. No historical-window reconstruction, A/B winner or causal claim.
+
+
+## 2026-11-14 18:13 UTC — daily TikTok duplicate check
+
+Current OPERATIONS.md and LAUNCH_CALENDAR.md read before production decision. TikTok Studio content inventory and the profile menu verified the active account as @marketpulseelite_de. Today's existing English post “Price Alert or Buy Limit Order?” (video ID `7707820693920058626`) is listed as **Everyone**, published **Nov 14, 1:41 AM** (Studio timezone unconfirmed): https://www.tiktok.com/@marketpulseelite_de/video/7707820693920058626 . Public playback and disclosure verification remain documented in the earlier entry above. Today's publication slot is fulfilled by this same video, counted once. No new production, upload, scheduling, or files in this run. Existing video, cover, production-package IDs and SEC source in the preceding production entry remain authoritative. Next new TikTok creative: **German**, based on this latest confirmed English publication.
+
+Available measurement snapshot at approximately 18:13 UTC, source: native TikTok Studio content table for @marketpulseelite_de. These are **current lifetime totals**, not historical 48h/7d snapshots. Publication ages are approximate because Studio timezone is unconfirmed.
+
+| Video ID | Studio publication date/time | Approximate calendar age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7707820693920058626 | Nov 14, 1:41 AM | same day | 105 | 0 | 0 |
+| 7706616891749502230 | Nov 10, 7:49 PM | about 4 days | 678 | 3 | 0 |
+| 7705870480783281430 | Nov 8, 7:33 PM | about 6 days | 90 | 0 | 0 |
+| 7705496254314319126 | Nov 7, 7:20 PM | about 7 days | 393 | 5 | 0 |
+| 7704754341671947542 | Nov 5, 7:21 PM | about 9 days | 315 | 2 | 0 |
+| 7704390833612557591 | Nov 4, 7:51 PM | about 10 days | 0 | 1 | 0 |
+
+Historical 48h/7d snapshots remain missing. Profile visits, measured link clicks, confirmed Telegram joins, retention, and revenue were not available in this content-table observation and remain unknown. No winner or causal attribution inferred. Earlier unconfirmed display-name change was not retried. No YouTube/Instagram actions or Telegram workflow run. No purchases or paid credits used.
