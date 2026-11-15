@@ -139,8 +139,9 @@
           "message_id": 13
         },
         "en": {
-          "status": "reserved",
-          "claim": "b7f545d807fb4e6cac76fbbda0b8256e"
+          "status": "sent",
+          "claim": "b7f545d807fb4e6cac76fbbda0b8256e",
+          "message_id": 12
         }
       }
     }
