@@ -115,6 +115,32 @@
           "status": "pending"
         }
       }
+    },
+    "2026-11-15": {
+      "topic": {
+        "id": "real-return",
+        "category": "literacy",
+        "source": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.en.html",
+        "de": {
+          "title": "Mehr Euro, weniger Kaufkraft?",
+          "body": "Ein Modellkonto wächst von 100 auf 103 Euro. Ein Warenkorb verteuert sich im gleichen Zeitraum von 100 auf 104 Euro. Das Guthaben kauft am Ende nur noch 103/104 des Warenkorbs. Die reale Veränderung beträgt rund −0,96 Prozent.",
+          "question": "Welchen Preisindex würdest du für einen Kaufkraftvergleich verwenden, und über welchen Zeitraum?"
+        },
+        "en": {
+          "title": "More euros, less purchasing power?",
+          "body": "A model account grows from €100 to €103. Over the same period a basket of goods rises from €100 to €104. The closing balance buys only 103/104 of the basket, a real change of about −0.96%.",
+          "question": "Which price index and time period would you use for a purchasing-power comparison?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "689b62900d764ac49bb97a4dc29c1697"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
