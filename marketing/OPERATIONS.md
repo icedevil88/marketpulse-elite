@@ -5,7 +5,7 @@ Updated: 6 November 2026 (Europe/Brussels).
 ## Active scope
 
 - Project mailbox: marketpulseelite@gmail.com.
-- YouTube: **@marketpulseelite**, channel **UCJYUmCEkEBdGWI20ef3Pquw**.
+- TikTok-only current production scope. YouTube @marketpulseelite / UCJYUmCEkEBdGWI20ef3Pquw is historical evidence only; no YouTube production, uploads, scheduling, catch-up or video changes from this task.
 - TikTok: **@marketpulseelite_de**. The current display name is marketpuls; the platform shows 11 November 2026 for the next name change.
 - Telegram: https://t.me/MarketPulseEliteDE and https://t.me/MarketPulseEliteGlobal.
 - Instagram is excluded at the owner's request.
@@ -13,7 +13,7 @@ Updated: 6 November 2026 (Europe/Brussels).
 
 ## Social publishing rule
 
-Active cadence: **one original clip per day, intended for both YouTube and TikTok**, subject to successful upload, platform review, and required confirmations. Alternate German and English between daily clips. This means one creative adapted to two destinations, not two different clips per platform per day.
+Active cadence: **one original clip per publication day exclusively for TikTok @marketpulseelite_de**, subject to successful upload, platform review, and required confirmations. Alternate German and English from the latest confirmed TikTok publication. This supersedes older cross-platform continuation instructions below; preserve those as historical evidence. Instagram excluded.
 
 The first German clip is **“Drei Fragen, bevor du dem Hype glaubst”**. Continue the educational sequence in the existing [14-day launch calendar](LAUNCH_CALENDAR.md). Clips should be vertical, 20–45 seconds, clearly captioned, and lead to the appropriate free Telegram channel.
 
@@ -40,11 +40,11 @@ The separate [.github/workflows/publish.yml](../.github/workflows/publish.yml) i
 
 ## Active social automation
 
-- Title: **MarketPulse Elite Shorts**
+- Title: **MarketPulse Elite TikTok-Clips**
 - Task ID: **6aeb7f0e1bc8819199e82303283545a5**
 - State: **active; re-enabled on 6 November 2026 after project sign-in and successful YouTube continuation**.
 - Starts: **5 November 2026**, daily at approximately **19:00 Europe/Brussels**, with a flexible scheduling window of **±1 hour**.
-- Scope: one original clip per day for the confirmed YouTube and TikTok project accounts, alternating DE/EN. No Instagram.
+- Current scope: one original clip per publication day for TikTok @marketpulseelite_de only, alternating DE/EN by latest confirmed publication. No YouTube or Instagram actions.
 - The launch clip is now publicly published on both YouTube (**N_Tz7w_25jY**) and TikTok (**7704390833612557591**). Do not upload or publish either again. Continue with the next original clip and the alternating DE/EN sequence.
 - Reuse this task; do not create a duplicate social task or a second Telegram schedule.
 
@@ -339,3 +339,35 @@ Available measurement snapshot at approximately 18:13 UTC, source: native TikTok
 | 7704390833612557591 | Nov 4, 7:51 PM | about 10 days | 0 | 1 | 0 |
 
 Historical 48h/7d snapshots remain missing. Profile visits, measured link clicks, confirmed Telegram joins, retention, and revenue were not available in this content-table observation and remain unknown. No winner or causal attribution inferred. Earlier unconfirmed display-name change was not retried. No YouTube/Instagram actions or Telegram workflow run. No purchases or paid credits used.
+
+
+## 2026-11-15 — DE TikTok — Warum +50 % den Verlust nicht ausgleichen
+
+**Publicly published**, video ID `7708471871498374422`: https://www.tiktok.com/@marketpulseelite_de/video/7708471871498374422 . Studio progressed from “Content under review / Only me” to **Everyone**, “Nov 15, 7:47 PM”. Public post opened under @marketpulseelite_de, playback advanced to **00:05 / 00:34**, matching caption and both **Promotional content** / **Creator labeled as AI-generated** labels verified. Own cover uploaded, previewed and saved. Own-brand checkbox checked, external branded partnership unchecked, AI label on, Now/Everyone, no selected location. Automated precheck was still running at submission; platform offered “Post now”. Subsequent public status is the publication evidence, not a claim that precheck returned no issues. One upload, counted once.
+
+Before production read current OPERATIONS.md and LAUNCH_CALENDAR.md. Studio profile menu confirmed @marketpulseelite_de; inventory had six public posts, latest English 7707820693920058626, no scheduled/draft match or resume prompt. Repeated fresh content inventory and account verification before upload; rechecked account menu before final post. Existing **MP01** German brief from Content_Workflow_2026-11-13.html continued after reading workflow. Subject distinct from the six earlier posts. Editorial score curiosity/clarity/originality/free feasibility/series fit 2/2/2/2/2 = 10/10, not a demand or reach forecast. Existing 13 Nov reference anchors reused as metadata-only context; no observed competitor pattern or experiment winner asserted. Full three hook/title alternatives, chosen A/A combination, audience, picture plan, narration, rights and next-slot rule saved in production package.
+
+Own illustrative calculation: 100×0.5=50, 50×1.5=75, (100/50−1)×100=100%. Arithmetic assertions passed. Conceptual primary source checked **15 November 2026**: FINRA Staff, *Key Concepts: Return and Rate of Return*, official date 19 January 2017, https://syndication.finra.org/content/key-concepts-return-and-rate-return . No real security or price chart. Persistent fictitious-example label. Fees/taxes/distributions excluded, recovery not guaranteed. CTA after practical rule, both Telegram addresses in caption.
+
+Master: approximately **34.6 s**, **1080×1920**, **H.264/AAC**, **25 fps**, **48kHz**, nine cue-synchronized captions, local Piper **de_DE-thorsten-high**. Model/config SHA256 matched toolkit manifest; ORT_DISABLE_TELEMETRY=1 set before Piper/ONNX starts; ASR telemetry also disabled. Original graphics, subtle motion and cover; no stock media/music or paid generation. Full final ffmpeg decode passed. Nine decoded samples inspected; final CTA overlap corrected and final decoded frame rechecked. Audio about **−17.2 LUFS / −1.5 dBTP**. Complete offline German ASR recovered all substantive amounts, percentages, risk warning and CTA, with some word-level recognition errors. No human listening review or equivalence to a premium voice claimed. Master SHA256 `9fe589a8b6712d11d3d0d7c7cd5f18d4789bba3f7bc59355d8572d403ebe9f57`.
+
+Durable files:
+- MarketPulse_Verlust_DE.mp4 — `libfile_fde3_f-c96c17730820819195147661e0e2b220_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Verlust_Cover.jpg — `libfile_fde3_f-fbda4c76ac2c819185e0c4e59109517b_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Verlust_DE_Production.zip — `libfile_fde3_f-dcc0e97139fc8191972bbb8311f20946_d045e4cd0d248191a4a4759b90613215`; brief, reproducible renderer, narration, SRT, model manifest/rights, technical QA, ASR and decoded samples. Saved before public confirmation; this operations entry supplies subsequent verified public status.
+
+### Available metrics at 15 November 2026, approximately 18:39 UTC
+Source: TikTok Studio content table, account @marketpulseelite_de. Native lifetime Views/Likes/Comments, not reconstructed 48h/7d windows.
+
+| Video ID | Publication date | Approximate calendar age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7707820693920058626 | 14 Nov | 1–2 days | 122 | 1 | 0 |
+| 7706616891749502230 | 10 Nov | about 5 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | about 7 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | about 8 days | 393 | 5 | 0 |
+| 7704754341671947542 | 5 Nov | about 10 days | 315 | 2 | 0 |
+| 7704390833612557591 | 4 Nov | about 11 days | 0 | 1 | 0 |
+
+Studio timezone is unconfirmed, so exact ages/windows not asserted. Custody is approximately seven days old; these are totals at this observation, not an exact historical 168-hour snapshot. Historical missing snapshots remain missing. Watch duration/completion, profile visits, measured link clicks, confirmed attributable Telegram joins and revenue unavailable here; remain unknown. No causal attribution.
+
+Next new eligible creative: **English**, only after refreshing inventory. Do not reupload 7708471871498374422. No YouTube/Instagram action, Telegram workflow, telephone verification, paid credit, purchase or new automation. Existing daily task remains for future distinct publication days. Earlier unconfirmed display-name change not retried.
