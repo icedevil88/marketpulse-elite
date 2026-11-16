@@ -144,6 +144,32 @@
           "message_id": 12
         }
       }
+    },
+    "2026-11-16": {
+      "topic": {
+        "id": "cash-receivables",
+        "category": "equity",
+        "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+        "de": {
+          "title": "Ein Verkauf auf Rechnung",
+          "body": "Ein Händler liefert im Dezember für 10.000 Euro, erfasst den Umsatz bei Lieferung und erhält das Geld im Januar. Am Jahresende steht aus diesem Verkauf eine Forderung in der Bilanz. Der Umsatz ist bereits erfasst, der Zahlungseingang folgt im nächsten Jahr.",
+          "question": "Verfolge den Vorgang in der Gewinn- und Verlustrechnung, der Bilanz und der Kapitalflussrechnung."
+        },
+        "en": {
+          "title": "A sale on credit",
+          "body": "A merchant delivers €10,000 of goods in December, recognizes revenue on delivery and receives cash in January. At year-end the balance sheet shows a receivable from that sale. Revenue has been recorded and the cash arrives the following year.",
+          "question": "Trace the sale through the income statement, balance sheet and cash flow statement."
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "95ba97d53b3141349e56684c61cb4c40"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
