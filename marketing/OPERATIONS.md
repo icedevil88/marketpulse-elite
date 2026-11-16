@@ -371,3 +371,36 @@ Source: TikTok Studio content table, account @marketpulseelite_de. Native lifeti
 Studio timezone is unconfirmed, so exact ages/windows not asserted. Custody is approximately seven days old; these are totals at this observation, not an exact historical 168-hour snapshot. Historical missing snapshots remain missing. Watch duration/completion, profile visits, measured link clicks, confirmed attributable Telegram joins and revenue unavailable here; remain unknown. No causal attribution.
 
 Next new eligible creative: **English**, only after refreshing inventory. Do not reupload 7708471871498374422. No YouTube/Instagram action, Telegram workflow, telephone verification, paid credit, purchase or new automation. Existing daily task remains for future distinct publication days. Earlier unconfirmed display-name change not retried.
+
+
+## 2026-11-16 — EN TikTok — Same €100 Gain. Same Return?
+
+**Publicly published**, ID `7708845632848416022`: https://www.tiktok.com/@marketpulseelite_de/video/7708845632848416022 . Studio initially “Content under review / Only me”, then **Everyone**, “Nov 16, 7:58 PM” (displayed Studio time). Public post confirmed the correct @marketpulseelite_de account, complete caption and **Promotional content** / **Creator labeled as AI-generated** labels; playback advanced to **00:04 / 00:34**. Own cover uploaded, previewed and saved. Own-brand checked, third-party branded partnership unchecked, AI enabled, Now/Everyone, no location selected. Precheck: **No issues found**, with the platform's usual later-moderation caveat. One upload, counted once.
+
+Read current OPERATIONS.md and LAUNCH_CALENDAR.md before production. Verified project account via Studio profile menu; seven existing public posts, latest German 7708471871498374422. No matching draft, scheduled row or resume-upload prompt in upload selector. Repeated inventory/account verification before upload and the account menu before final posting. Relevant **MP02** row read in Content_Workflow_2026-11-13.html. MP01 already complete, no loss-recovery repeat. New angle: identical euro gain with different investment amounts. Curiosity/clarity/originality/free feasibility/series fit 2/2/2/2/2 = **10/10 editorial judgment**, demand unknown. Existing Nov13 metadata-only reference anchors reused, no observed competitor pattern or performance forecast. Three title/hook alternatives, chosen A/A, audience, promise, scene plan, narration, source/rights, caption and next-slot rule in saved brief.
+
+Hypothetical one-year examples, no intervening cash flows/distributions: €100/€1,000×100=10%; €100/€10,000×100=1%. Own arithmetic assertions passed. Fees/taxes excluded; period and cost basis must match, a higher return alone does not establish lower risk. Primary conceptual source freshly read **16 November 2026**: FINRA Staff, *Key Concepts: Return and Rate of Return*, core official date 19 January 2017, https://syndication.finra.org/content/key-concepts-return-and-rate-return . Original side-by-side denominator graphics; no actual price chart, security, personal data or buy recommendation. CTA after useful explanation, both Telegram addresses in caption.
+
+Master about **34.14 seconds**, **1080×1920 H.264/AAC, 25fps, 48kHz**, nine cue-synchronized English captions, local Piper **en_US-ljspeech-high**. Toolkit restored, dependencies installed, model/config manifest hashes verified by narration script. ORT_DISABLE_TELEMETRY=1 before Piper/ONNX starts; ONNX and ASR/HF telemetry disabled. Full final ffmpeg decode passed. Nine decoded frames and cover visually inspected. AAC **−17.7 LUFS / −1.5 dBTP**. Offline ASR on the final AAC recovered all substantive words and numbers; inserted conjunction in last phrase is a recognition discrepancy, not a missing CTA. No human listening review or premium-voice equivalence claimed. Original script, graphics, cover, no music/stock footage or paid generation. Master SHA256 `c1b4a51a00027f5ecb3cde8d45043a49e8e335b289ed3c6840743f995f262d8e`.
+
+Durable files:
+- MarketPulse_Return_EN.mp4 — `libfile_fde3_f-3bededb402a88191a891e581e8c826dd_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Return_Cover.jpg — `libfile_fde3_f-30973861bb54819183759feb774fef9f_d045e4cd0d248191a4a4759b90613215`
+- MarketPulse_Return_EN_Production.zip — `libfile_fde3_f-b34d5a7d02248191842de24156a74e3a_d045e4cd0d248191a4a4759b90613215`; reproducible renderer, script, narration, captions, primary-source/rights brief, QA, final ASR and sampled frames. Saved before public confirmation; this entry records later confirmed public status. The prepared-upload helper failed at tools/list authentication before any preparation/write request; the available first-party file-create batch saved all three files successfully, and local file identity/xattrs were applied.
+
+### Measurement snapshot — 16 November 2026, approximately 18:50 UTC
+TikTok Studio native content-table **lifetime** Views/Likes/Comments for @marketpulseelite_de; approximate calendar ages. Not historical 48h/7d windows.
+
+| Video ID | Published | Approximate age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7708471871498374422 | 15 Nov | about 1 day | 688 | 1 | 0 |
+| 7707820693920058626 | 14 Nov | about 2–3 days | 122 | 1 | 0 |
+| 7706616891749502230 | 10 Nov | about 6 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | about 8 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | about 9 days | 393 | 5 | 0 |
+| 7704754341671947542 | 5 Nov | about 11 days | 315 | 2 | 0 |
+| 7704390833612557591 | 4 Nov | about 12 days | 0 | 1 | 0 |
+
+Studio timezone unconfirmed. Alert's exact historical 48h snapshot missing; current total is not that snapshot. Custody historical exact 7d snapshot remains missing; prior Nov15 approximate seven-day observation retained. Watch duration/completion, measured profile visits/link clicks, verified attributable Telegram joins and revenue unavailable in this content-table view and unknown. No winner from small samples, no causal attribution or invented conversion.
+
+Next distinct TikTok creative: **German**, after fresh inventory. Do not reupload 7708845632848416022. No YouTube/Instagram action, Telegram workflow, telephone verification, purchases, premium credits, new task or extra control automation. Existing daily publishing task continues for future distinct publication days; no further display-name retry.
