@@ -173,6 +173,32 @@
           "message_id": 13
         }
       }
+    },
+    "2026-11-17": {
+      "topic": {
+        "id": "sales-multiple",
+        "category": "valuation",
+        "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/lectures/ps.html",
+        "de": {
+          "title": "Zweimal derselbe Umsatzmultiplikator",
+          "body": "Zwei fiktive Firmen haben je 100 Mio. Euro Umsatz und einen Börsenwert von 200 Mio. Euro. Beide kosten das Zweifache des Jahresumsatzes. Bei Nettomargen von 2 und 10 Prozent stehen hinter demselben Multiplikator aber 2 und 10 Mio. Euro Jahresgewinn.",
+          "question": "Welche Marge müsste dauerhaft erreichbar sein, damit dein Vergleich aussagekräftig ist?"
+        },
+        "en": {
+          "title": "Two companies at the same sales multiple",
+          "body": "Two hypothetical businesses each have €100m of sales and a €200m market capitalization. Both trade at twice annual sales. At net margins of 2% and 10%, those identical multiples correspond to annual profits of €2m and €10m.",
+          "question": "What sustainable margin would make the comparison meaningful?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "59b392ea1cc0457a90f867bb9cc69bd2"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
