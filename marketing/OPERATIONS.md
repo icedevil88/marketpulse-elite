@@ -404,3 +404,45 @@ TikTok Studio native content-table **lifetime** Views/Likes/Comments for @market
 Studio timezone unconfirmed. Alert's exact historical 48h snapshot missing; current total is not that snapshot. Custody historical exact 7d snapshot remains missing; prior Nov15 approximate seven-day observation retained. Watch duration/completion, measured profile visits/link clicks, verified attributable Telegram joins and revenue unavailable in this content-table view and unknown. No winner from small samples, no causal attribution or invented conversion.
 
 Next distinct TikTok creative: **German**, after fresh inventory. Do not reupload 7708845632848416022. No YouTube/Instagram action, Telegram workflow, telephone verification, purchases, premium credits, new task or extra control automation. Existing daily publishing task continues for future distinct publication days; no further display-name retry.
+
+
+## 2026-11-17 — DE TikTok — Sofort im Minus? So wirkt der Spread
+
+**Publicly published**, ID `7709208561527573782`: https://www.tiktok.com/@marketpulseelite_de/video/7709208561527573782 . Studio progressed from “Content under review / Only me” to **Everyone**, “Nov 17, 7:26 PM” (Studio time; timezone unconfirmed). Public post opened with matching title/caption, @marketpulseelite_de, **Promotional content** and **Creator labeled as AI-generated** labels. Playback advanced to **00:04 / 00:39**. Own cover uploaded, visually previewed and saved. Own-brand selected, third-party branded partnership empty, AI enabled, public/Now, no location. Precheck **No issues found**. Exactly one upload, counted once.
+
+Before production, read current OPERATIONS.md / LAUNCH_CALENDAR.md and relevant **MP06** row in Content_Workflow_2026-11-13.html. Studio profile positively identified @marketpulseelite_de; eight prior public posts, latest English 7708845632848416022. No matching draft/scheduled row or resume-upload prompt appeared in accessible Studio. Rechecked fresh inventory and target profile immediately before upload; account menu checked before posting. MP06 is distinct from existing percentage, EPS, custody, fund-overlap, revenue and watchlist clips. Editorial score curiosity/clarity/originality/free feasibility/fit = **2/2/2/2/2 (10/10)**, not demand evidence. Demand unknown. Existing 13 Nov metadata-only finance reference anchors reused within seven days; no observed competitor pattern, paid research or reach forecast. Three hooks, three titles, chosen A/A, audience, payoff, scene plan, source/rights and next-slot rule in saved brief.
+
+Hypothetical per-share quote pair: ask/Briefkurs €101, bid/Geldkurs €99; **101−99=€2 spread**. Original conditional roundtrip illustration assumes unchanged prices, enough offered quantity and execution at those prices, before further fees/taxes. Both source/caption and graphics state limits; actual price can differ. No real quote, broker screen, personal position or recommendation. Useful rule: compare both quote sides and available quantity before interpreting a gain.
+
+Primary sources freshly read **17 November 2026**:
+- SEC Investor.gov, *Bid Price/Ask Price* (undated glossary): https://www.investor.gov/introduction-investing/investing-basics/glossary/ask-price .
+- SEC Investor.gov, *Types of Orders*: https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders .
+- Supporting legacy SEC *Spread*, modified 18 December 2002: https://www.sec.gov/answers/spread.htm . Caption prioritizes the current Investor.gov pages.
+Bid/ask direction, difference and order-price limitations checked. Independent arithmetic assertion passed. CTA only after the explanation; both Telegram addresses in description, no claim of clickable bio links.
+
+Final master **39.56 s**, **1080×1920 H.264/AAC, 25 fps, 48 kHz**, nine captions synchronized to independently synthesized chunks. Local Piper **de_DE-thorsten-high**, manifest-verified model/config, pinned toolkit restored. ORT_DISABLE_TELEMETRY=1 before starts/imports, ONNX telemetry events disabled, HF/ASR telemetry off. Slower length-scale **1.08** selected. Earlier ASR misrecognized loan/compound terms; final narration uses simple German to describe the price gap while the visual retains “Spread = Geld-Brief-Spanne”. Final AAC ASR recovers 101/99, two-euro gap, buy/sell direction, costs, price uncertainty and CTA; some function words remain misrecognized. No human listening approval or premium-equivalence claim. Full final ffmpeg decode passed, codec/dimension/duration assertions passed, final nine decoded samples plus a full-size decoded frame and cover inspected. Audio **−17.3 LUFS / −1.4 dBTP**. Original graphics/cover, no external music/footage, paid calls **0**. Master SHA256 `d70b12cbe7218baaa826afcfe2a33831febee09856b7e54864377ea3d461bf8c`.
+
+### Durable master, cover and production material
+All saved together in **MarketPulse_Spread_DE_Complete.zip**, Library ID `libfile_fde3_f-73a7d935698481918363abb1733d8223_d045e4cd0d248191a4a4759b90613215`, OpenAI file ID `file_00000000787081fd8bf65dd290f938fe`, 3,297,705 bytes.
+- `output/MarketPulse_Spread_DE.mp4` — exact final master.
+- `output/MarketPulse_Spread_Cover.jpg` — uploaded own cover.
+- Brief, caption, final narration/script, reusable renderer, WAV, nine-cue SRT, model manifest/rights, final probe, audio QA, ASR, sampled and full-size decoded frames.
+Archive saved before public confirmation; this operating entry supplies later confirmed publication status. One archive identity for all contained files; no separate Library IDs invented.
+
+### Measurement snapshot — 17 November 2026, approximately 18:15 UTC
+Source: TikTok Studio native content table. Platform TikTok; verified channel handle **@marketpulseelite_de** (numeric account ID unavailable). Format: short vertical education clips. **Current lifetime cumulative views/likes/comments** from publication through this observation. The 15 Nov loss clip is about two calendar days old (near the requested ~48h review); the 10 Nov EPS clip is about seven calendar days old. Studio timezone unconfirmed, so exact hourly ages/windows are not asserted.
+
+| Video ID | Publication date | Approximate age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7708845632848416022 | 16 Nov | about 1 day | 103 | 0 | 0 |
+| 7708471871498374422 | 15 Nov | about 2 days | 689 | 1 | 0 |
+| 7707820693920058626 | 14 Nov | about 3 days | 122 | 1 | 0 |
+| 7706616891749502230 | 10 Nov | about 7 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | about 9 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | about 10 days | 393 | 5 | 0 |
+| 7704754341671947542 | 5 Nov | about 12 days | 315 | 2 | 0 |
+| 7704390833612557591 | 4 Nov | about 13 days | 0 | 1 | 0 |
+
+These are today's actual readings near the eligible review ages, not reconstructed exact historical 48h/168h snapshots. Missing earlier snapshots remain missing. Retention/watch duration, completion, measured profile visits/link clicks, verified Telegram joins/attribution and revenue not available from this view and remain unknown. No winner from small/incomparable samples, no causal conversion claim or new measurement automation.
+
+Next distinct TikTok creative: **English**, after fresh inventory; never reupload 7709208561527573782. No YouTube/Instagram action, Telegram workflow, phone verification, paid credits, purchases, new task or display-name retry. Existing daily publishing task continues for future distinct publication days.
