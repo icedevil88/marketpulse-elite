@@ -202,6 +202,32 @@
           "message_id": 14
         }
       }
+    },
+    "2026-11-18": {
+      "topic": {
+        "id": "ethereum-gas",
+        "category": "crypto",
+        "source": "https://ethereum.org/developers/docs/gas/",
+        "de": {
+          "title": "Eine Gebühr in Gas und Gwei zerlegen",
+          "body": "Auf Ethereum hängt die Ausführungsgebühr vom verbrauchten Gas und dem effektiven Preis je Gaseinheit ab. Verbraucht eine einfache Überweisung beispielsweise 21.000 Einheiten zu je 10 Gwei, ergibt das 210.000 Gwei oder 0,00021 ETH. Die 10 Gwei sind eine Annahme.",
+          "question": "Welche Zahl würdest du im Transaktionsbeleg prüfen, um die tatsächlich verbrauchten Einheiten zu sehen?"
+        },
+        "en": {
+          "title": "Break an Ethereum fee into gas and gwei",
+          "body": "On Ethereum the execution fee depends on gas used and the effective price per unit. For a simple transfer, an illustrative 21,000 units at 10 gwei come to 210,000 gwei, or 0.00021 ETH. The 10 gwei is an assumption.",
+          "question": "Which field in the transaction receipt tells you the units actually consumed?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "7682a09bd3494ce6866f3eb5003d707c"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
