@@ -231,6 +231,32 @@
           "message_id": 15
         }
       }
+    },
+    "2026-11-19": {
+      "topic": {
+        "id": "stop-gap",
+        "category": "risk",
+        "source": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15",
+        "de": {
+          "title": "Wenn der Kurs die Stoppschwelle überspringt",
+          "body": "Eine fiktive Aktie schließt bei 50 Euro, eine Verkaufs-Stop-Order liegt bei 45 Euro. Eröffnet die Aktie bei 40 Euro und löst die Order aus, wird sie zur Marktorder. Der Ausführungspreis kann deutlich unter 45 Euro liegen.",
+          "question": "Welche Funktion hat die Zahl 45 in diesem Auftrag?"
+        },
+        "en": {
+          "title": "When a price gaps through a stop",
+          "body": "A hypothetical stock closes at €50 with a sell stop at €45. If it opens at €40 and triggers the order, the order becomes a market order. Execution can occur well below €45.",
+          "question": "What does the €45 figure actually control in this order?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "5d1507972ab645ffb5609c1a13b599ad"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
