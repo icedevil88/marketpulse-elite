@@ -489,3 +489,43 @@ TikTok Studio content table, verified handle **@marketpulseelite_de**; numeric a
 The new 7709586419173412118 row initially reads 0/0/0 at public confirmation only minutes after posting; this is not an outcome assessment. Historical missing 48h/7d snapshots remain missing; prior approximate observations preserved. Retention, completion, measured profile visits/link clicks, verified Telegram joins/attribution and revenue unavailable in this view and **unknown**. No winner, causal conversion claim, reconstructed historic values or extra measurement automation.
 
 Next distinct TikTok creative: **German**, after fresh inventory on a new eligible publication day. Do not reupload today's ID. No YouTube/Instagram work, Telegram workflow trigger/change, telephone verification, display-name retry, paid tools, purchase or new task.
+
+
+## 2026-11-19 — DE TikTok — Nur 1 € Gebühr? Rechne in Prozent.
+
+**Publicly published**, ID `7709956432384462103`: https://www.tiktok.com/@marketpulseelite_de/video/7709956432384462103 . Exactly one upload; initially “Content under review / Only me”, then **Everyone**, “Nov 19, 7:48 PM” (Studio-displayed time, timezone unconfirmed). Public page confirmed matching title/caption and @marketpulseelite_de, **Promotional content** and **Creator labeled as AI-generated**, playback **00:03 / 00:32** at approximately 18:50 UTC. Own cover uploaded, previewed and saved. Own-brand checked, third-party branded partnership unchecked, AI label on, Now/Everyone, no location. Content check lite **No issues found**, with usual later-moderation caveat. Each confirmed ID counts once.
+
+Read current OPERATIONS.md, LAUNCH_CALENDAR.md and relevant **MP09** row of Content_Workflow_2026-11-13.html before selection. Latest confirmed/public English 7709586419173412118, hence German. Verified project profile via Studio menu before production, refreshed inventory/account before upload, account checked before cover save and final posting. Nine currently visible existing public rows; historical start-clip proof retained, no fresh reading invented for it. No matching Nov19 creative, draft/scheduled row or resume-upload prompt in accessible Studio. No better unfinished production in current record. Preserved new video ID through review, no duplicate upload. Editorial curiosity/clarity/originality/free feasibility/series fit **1/2/2/2/2=9/10**, not evidence of demand or reach. Demand unknown. Existing Nov13 metadata-only finance reference anchors retained within six days, no fresh video/thumbnail viewing or recurring competitor-pattern claim. Three hooks/titles, chosen A/A and rationale, audience, promise, script, nine-scene picture plan, captions, rights/source and next-slot rule in durable brief. No controlled experiment or winner claimed.
+
+### Concept, facts and source
+Fixed hypothetical one-time purchase fee **€1 per order**: €1/€50×100=**2%**, versus €1/€1,000×100=**0.1%**. Own independent arithmetic assertions passed. Order value excluding the separately paid purchase fee is the denominator. Persistent **FIKTIVES BEISPIEL**; no real provider price. Proportional fee bars, original typography, no purported market chart. Useful rule: compute percentage and examine purchase/sale/ongoing costs over intended holding period. Isolated calculation excludes sale costs, ongoing charges, further fees and taxes; not a complete total-cost or performance comparison. Explicitly not a reason to invest more; losses remain possible. No private portfolio, buy recommendation, guarantee or revenue promise. CTA after payoff, both Telegram addresses in caption, no clickability claim.
+
+Primary source freshly researched/read **19 November 2026**: SEC Investor.gov, *How Fees and Expenses Affect Your Investment Portfolio – Investor Bulletin*, published **23 July 2025**: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated . Transaction and ongoing fees distinguished; fee schedules and buy/hold/sell costs support the practical checklist. Original arithmetic and design, no source chart copied.
+
+### Final production / durable assets
+**32.16 s, 1080×1920 H.264/AAC, 25 fps, 48kHz**, nine cue-synchronized captions. Free local Piper **de_DE-thorsten-high**, manifest-matched model/config hashes. ORT_DISABLE_TELEMETRY=1 before every ONNX/Piper/ASR start; ONNX telemetry events and HF telemetry disabled. Formula sentence simplified after first final-AAC recognition check; final length-scale **1.1**. Final AAC ASR recovers amounts, percentages, formula, cost caveats, warning and CTA; some functional-word recognition errors remain. No human listening approval or premium-voice equivalence claimed. Full final decode and codec/dimension/duration assertions passed. Final nine decoded samples and cover visually inspected with no overlap/clipping. Audio **−17.0 LUFS / −1.5 dBTP**. No external music/stock footage, paid generation, credits or purchase. Master SHA256 `cd87744e0be80127005c7a6b98a43b5ef334d491af086e231e9f4c7846e96e50`.
+
+All durable files in **MarketPulse_Gebuehr_DE_Complete.zip**, Library ID `libfile_fde3_f-aea77f6923fc8191a256b05d8cf07103_d045e4cd0d248191a4a4759b90613215`, OpenAI file ID `file_00000000efac81fd94d5ae4a797a9030`, **2,772,511 bytes**.
+- `output/MarketPulse_Gebuehr_DE.mp4`: exact uploaded final master.
+- `output/MarketPulse_Gebuehr_Cover.jpg`: exact uploaded cover.
+- Brief, caption, script, renderer/QA script, WAV, SRT, timing, manifest/setup/model rights, final probe/decode/audio/ASR and nine decoded samples.
+One archive identity for contained files; no individual file IDs invented. Saved before submission; this entry supplies later public confirmation.
+
+### Measurement snapshot — 19 November 2026, approximately 18:44 UTC
+Platform TikTok, verified handle @marketpulseelite_de, numeric account ID unavailable. Format: short vertical financial education. Studio native **current lifetime cumulative Views/Likes/Comments**, not reconstructed historical windows. Ages approximate because Studio timezone unconfirmed. The Nov17 spread clip is around the ~48h review age; no exact 48-hour snapshot asserted.
+
+| Video ID | Published | Approximate age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7709586419173412118 | 18 Nov | about 1 day | 83 | 0 | 0 |
+| 7709208561527573782 | 17 Nov | about 2 days | 217 | 1 | 0 |
+| 7708845632848416022 | 16 Nov | about 3 days | 105 | 0 | 0 |
+| 7708471871498374422 | 15 Nov | about 4 days | 690 | 1 | 0 |
+| 7707820693920058626 | 14 Nov | about 5 days | 122 | 1 | 0 |
+| 7706616891749502230 | 10 Nov | about 9 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | about 11 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | about 12 days | 393 | 5 | 0 |
+| 7704754341671947542 | 5 Nov | about 14 days | 316 | 2 | 0 |
+
+New today's row initially 0/0/0 only minutes after posting; not a performance assessment. Start clip's earlier historical readings preserved; not freshly read in this view. Missing exact historical 48h/7d snapshots remain missing. Retention/completion/profile visits/measured link clicks/verified attributable Telegram joins/revenue unavailable here and unknown. No winner or causal attribution from small/incomparable samples. No extra measurement automation.
+
+Next distinct TikTok creative **English**, after fresh inventory on another eligible publication day. Do not reupload 7709956432384462103. No YouTube/Instagram action, Telegram workflow trigger/change, phone verification, display-name retry, new task, premium credit or purchase.
