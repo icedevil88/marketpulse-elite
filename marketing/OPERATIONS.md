@@ -529,3 +529,51 @@ Platform TikTok, verified handle @marketpulseelite_de, numeric account ID unavai
 New today's row initially 0/0/0 only minutes after posting; not a performance assessment. Start clip's earlier historical readings preserved; not freshly read in this view. Missing exact historical 48h/7d snapshots remain missing. Retention/completion/profile visits/measured link clicks/verified attributable Telegram joins/revenue unavailable here and unknown. No winner or causal attribution from small/incomparable samples. No extra measurement automation.
 
 Next distinct TikTok creative **English**, after fresh inventory on another eligible publication day. Do not reupload 7709956432384462103. No YouTube/Instagram action, Telegram workflow trigger/change, phone verification, display-name retry, new task, premium credit or purchase.
+
+
+## 2026-11-20 — EN TikTok — Dividend Yield Doubled. More Cash?
+
+**Submitted / content under review; public publication NOT confirmed.** Video ID `7710319799548595478`, observed Studio link https://www.tiktok.com/@marketpulseelite_de/video/7710319799548595478 . One submission at approximately18:18UTC. Final fresh Studio observation at approximately **18:22UTC** still showed **“Content under review” / “Only me”**, 0 views/0 likes/0 comments; requested visibility at submission was Everyone/Now. No rejection or upload failure shown. No public playback or public-label verification claimed. The Studio content page was retained for continuation. Repeated normal status refreshes did not produce a new upload. The active daily series remains unchanged because this is ongoing platform processing, not a login/access blocker.
+
+**Next run: reconcile this exact existing ID/title/cover/date before producing anything. Do not reupload.** If it becomes public, count this English creative once and the next distinct eligible creative is German. If still in review, preserve pending status; do not use a new upload to bypass moderation.
+
+
+Read current OPERATIONS.md, LAUNCH_CALENDAR.md and MP04 row of Content_Workflow_2026-11-13.html. English follows confirmed/public DE fee clip 7709956432384462103. Nine visible prior public rows; historical older proofs preserved. Correct profile @marketpulseelite_de verified before production and in fresh content/account checks immediately before upload; no matching Nov20 draft/scheduled row or resume-upload prompt in accessible Studio selector. Profile checked before cover save and final submission. One creative and one upload; exact ID preserved through review. Own-brand checked, third-party branded partnership unchecked, AI label on, Everyone/Now requested, no location. Own cover uploaded, visually previewed and saved. Content check lite still running at submission; “Continue to post?” / “Post now” used. No completed “No issues found” result claimed.
+
+### Editorial and evidence
+Topic **MP04: dividend yield can rise without a larger cash dividend**. Audience English-speaking stock beginners. Editorial curiosity/clarity/originality/free feasibility/fit **2/2/2/2/2=10/10**, with free feasibility upgraded after toolkit/renderer verification. Editorial judgment, not demand proof. Demand unknown. Three hooks/titles and A/A selection rationale, audience, promise, nine-scene picture plan, script/captions, sources/rights and next-slot rule in brief. Existing Nov13 finance anchors reread as history; fresh20Nov metadata search found Ben Felix *High Income Investments: A Warning* (https://www.youtube.com/watch?v=2Q7-SkDEPB8 , primary URL/title confirmed; fuller search snippet via Glasp) and The Swedish Investor public Patreon sitemap title *A Nearly 10% Dividend Yield, With Growth on Top?*, dated18Nov (https://www.patreon.com/TheSwedishInvestor/sitemap). English finance context, not matched short-form performance evidence; no video/thumbnail viewing, three-example recurring pattern, demand forecast or winner claim. No paid research.
+
+Original hypothetical calculation per share: **$5 assumed annual dividend / $100 price =5%; same $5 / $50 price =10%**. Own arithmetic assertions passed. Annual dividend assumed unchanged, not a guaranteed future payment or yield on cost. Current share price denominator, before taxes/fees. Dividend percentage is distinct from cash received and total return; dividend can be reduced/stopped, share prices may fall further. Ask about sustainability in the financial reports. No real company/quote/chart, private holdings, buy advice or guarantee. Persistent hypothetical-example label, own before/after cards. Limited Telegram CTA after payoff, both addresses in caption without clickability claim.
+
+Primary sources freshly researched/read **20 November 2026**:
+- FINRA Staff, *Defining the Value of an Investment*, core official date **12 November 2025** (syndication header11Nov): https://syndication.finra.org/content/defining-value-investment . Annual dividend/current price definition, changing yield and total-return distinction.
+- SEC Investor.gov, *Money Smarts Quiz Answer (1a)*, undated: https://www.investor.gov/money-smarts-quiz-answer-1a . Payment cuts/stoppage and capital-loss risk.
+No copied source chart or media.
+
+### Final master and durable files
+**39.60s, 1080×1920 H.264/AAC,25fps,48kHz**, nine cue-synchronized captions. Free local Piper **en_US-ljspeech-high**, final length-scale **1.03**, model/config hashes matched manifest before synthesis. ORT_DISABLE_TELEMETRY=1 before each ONNX/Piper/ASR start, ONNX telemetry events disabled, HF telemetry disabled. First final-AAC ASR misrecognized the dividend-cut clause; sentence rewritten explicitly as “The company can reduce or stop the dividend.” Revised final AAC ASR recovered all substantive words/figures, risk and CTA. No human listening approval or premium-voice equivalence claimed. Full final decode and codec/dimension/duration assertions passed. Nine final decoded samples, additional full-size sustainability frame and own cover visually inspected without clipping/overlap. Final audio **−17.4LUFS/−1.5dBTP**. Own text, graphics, motion and cover; no music/stock footage, paid generation, credits or purchase. Master SHA256 `864b17ecdba0347bfa38f259461ee12e80c9d5ab454d5e9c228dd293d4f1b404`.
+
+All durable assets in **MarketPulse_Dividend_EN_Complete.zip**, Library ID `libfile_fde3_f-602188a994008191a2ed74342832bf7f_d045e4cd0d248191a4a4759b90613215`, OpenAI file ID `file_00000000ff9081fd8bf744e2e37607de`, **3,501,484bytes**.
+- `output/MarketPulse_Dividend_EN.mp4`: exact final uploaded master.
+- `output/MarketPulse_Dividend_Cover.jpg`: uploaded own cover.
+- Brief/caption/script, renderer/QA script, WAV/SRT/timing, model manifest/rights/setup, final probe/audio/ASR/QA, sampled and full-size decoded frames.
+One archive identity for all contained assets; no invented separate file IDs. Saved before submission; status in this operations entry is authoritative for subsequent platform observation.
+
+### Measurement snapshot — 20 November 2026, approximately18:13UTC
+TikTok Studio content table, verified handle @marketpulseelite_de (numeric account ID unavailable). Format short vertical financial education. Native **current lifetime cumulative Views/Likes/Comments**, approximate calendar ages because Studio timezone unconfirmed. Nov18 market-cap clip is around ~48h review age; no exact historical48h window asserted.
+
+| Video ID | Published | Approximate age | Views | Likes | Comments |
+|---|---|---|---:|---:|---:|
+| 7709956432384462103 | 19 Nov | about 1 day | 642 | 1 | 0 |
+| 7709586419173412118 | 18 Nov | about 2 days | 86 | 0 | 0 |
+| 7709208561527573782 | 17 Nov | about 3 days | 217 | 1 | 0 |
+| 7708845632848416022 | 16 Nov | about 4 days | 105 | 0 | 0 |
+| 7708471871498374422 | 15 Nov | about 5 days | 690 | 1 | 0 |
+| 7707820693920058626 | 14 Nov | about 6 days | 122 | 1 | 0 |
+| 7706616891749502230 | 10 Nov | about 10 days | 678 | 3 | 0 |
+| 7705870480783281430 | 8 Nov | about 12 days | 90 | 0 | 0 |
+| 7705496254314319126 | 7 Nov | about 13 days | 393 | 5 | 0 |
+
+Historical exact48h/7d snapshots remain missing; prior readings preserved. Earlier revenue/start clips not freshly visible in this view, no new values invented. Retention/completion/profile visits/measured link clicks/verified attributable Telegram joins/revenue unavailable here and unknown. No attribution, A/B winner, retroactive window reconstruction or extra measurement automation.
+
+No YouTube/Instagram work, Telegram workflow trigger/change, phone verification, display-name retry, paid tools, purchase or new automation. Daily series continues for distinct eligible days; do not duplicate today's exact ID.
