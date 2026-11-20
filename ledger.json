@@ -284,8 +284,9 @@
           "message_id": 18
         },
         "en": {
-          "status": "reserved",
-          "claim": "dad8fe2538a14483b18e8b2ad4b352ab"
+          "status": "sent",
+          "claim": "dad8fe2538a14483b18e8b2ad4b352ab",
+          "message_id": 17
         }
       }
     }
