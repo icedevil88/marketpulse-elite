@@ -260,6 +260,32 @@
           "message_id": 16
         }
       }
+    },
+    "2026-11-20": {
+      "topic": {
+        "id": "fee-base",
+        "category": "literacy",
+        "source": "https://www.investor.gov/introduction-investing/getting-started/understanding-fees",
+        "de": {
+          "title": "Worauf fällt die Gebühr an?",
+          "body": "Ein Beispieldepot von 10.000 Euro zahlt 0,6 Prozent jährlich auf seinen Wert. Bei konstanter Bemessungsgrundlage sind das 60 Euro pro Jahr. Eine fixe Gebühr von 3 Euro pro Monat ergibt 36 Euro. Bei 6.000 Euro wären beide Modelle in diesem vereinfachten Beispiel gleich teuer.",
+          "question": "Welche Kostenpositionen fehlen noch, bevor man zwei echte Preislisten vergleichen kann?"
+        },
+        "en": {
+          "title": "What amount is the fee based on?",
+          "body": "A model portfolio worth €10,000 pays 0.6% a year on its value. With a constant fee base that is €60 per year. A flat €3 monthly charge adds up to €36. At €6,000 the two charges would be equal in this simplified example.",
+          "question": "Which other charges would you check before comparing two actual fee schedules?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "660a36a5306e4d4dafd89dec8c5b7e04"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
