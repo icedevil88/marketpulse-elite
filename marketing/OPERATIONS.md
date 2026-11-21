@@ -577,3 +577,51 @@ TikTok Studio content table, verified handle @marketpulseelite_de (numeric accou
 Historical exact48h/7d snapshots remain missing; prior readings preserved. Earlier revenue/start clips not freshly visible in this view, no new values invented. Retention/completion/profile visits/measured link clicks/verified attributable Telegram joins/revenue unavailable here and unknown. No attribution, A/B winner, retroactive window reconstruction or extra measurement automation.
 
 No YouTube/Instagram work, Telegram workflow trigger/change, phone verification, display-name retry, paid tools, purchase or new automation. Daily series continues for distinct eligible days; do not duplicate today's exact ID.
+
+
+## 21 November 2026 — TikTok cashflow vs profit (DE)
+
+### Reconciliation and account / duplicate protection
+On today's run, the 20Nov English dividend clip **7710319799548595478** was verified public: Studio **Everyone**, **Nov20,7:18PM**, exact public page https://www.tiktok.com/@marketpulseelite_de/video/7710319799548595478 , correct account, caption, **Promotional content** and **Creator labeled as AI-generated**, actual playback **00:23/00:39**. This reconciles yesterday's pending review; historical20Nov entry preserved as observed then. Count once; no re-upload.
+
+Read current OPERATIONS.md, LAUNCH_CALENDAR.md and MP03 row in Content_Workflow_2026-11-13.html. Verified project profile menu **https://www.tiktok.com/@marketpulseelite_de** before production, again before upload, cover Save and Post. TikTok numeric account ID not exposed. Studio inventory checked before production and again before upload; latest public ID was yesterday's dividend clip, no21Nov/matching cashflow motif or future scheduled item shown, upload selector had no draft/resume prompt. No pending matching asset to continue. Kept historical older IDs, including7704390833612557591/7705870480783281430. One upload and one Post action today, exact new ID **7710695115462954262**; no replacement/retry after submission.
+
+### Topic / brief / evidence
+**“40 € Gewinn – aber 60 € weniger auf dem Konto?”**, German following yesterday's now-confirmed EN. New MP03-derived cashflow-versus-accrual-profit example, calendar day12 inspiration, not a repetition of revenue/earnings or startclip. Editorial curiosity/clarity/originality/free-feasibility/series-fit **2/2/2/2/2=10/10**; demand/performance hypothesis unknown. Three hooks and three title variants in BRIEF.md; selected the concrete contradiction plus resolved arithmetic. Three German education references assessed only from metadata (RG Finance, Finanzkoch, German Khan Academy); matching TikTok-short performance not established, no video/thumbnail-view claim or observed recurring pattern. No paid research.
+
+Fictitious one-month example, accrual basis: deliver100€ revenue on credit; customer pays next month; corresponding60€ expense is recognized and paid this month; no other transactions/taxes/fees. Profit before tax **100−60=40€**, cash change **0−60=−60€**. Negative cash change is not a negative bank balance. Both reports and period matter; future payment can be delayed or fail. Persistent fictional-example label, own comparison graphics, assumptions/limits and dated primary sources in caption, short Telegram CTA after explanation. No real chart/quote/company, private holdings, recommendation or guarantee.
+
+Official primary sources freshly researched/read **21Nov2026**:
+- SEC, *Beginners’ Guide to Financial Statements*,12Jan2014: https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements . Accrual earnings versus actual cash, cashflow adjustments including receivables.
+- SEC, *What is a statement of cash flows?*, undated educational PDF: https://www.sec.gov/files/cash-flow-statement-bblocks.pdf . Period receipts/payments and earnings-to-cash adjustment.
+Own illustrative numbers, no source chart or stock media copied.
+
+### Final master / durable assets / QA
+**37.88s,1080×1920,H.264/AAC,25fps,48kHz**, nine chunk-synchronized subtitle cues. Local free Piper **de_DE-thorsten-high**, length-scale1.08; model/config SHA256 matched documented manifest. ORT_DISABLE_TELEMETRY=1 before each ONNX/Piper/ASR start; ONNX events and HF telemetry disabled. First AAC-ASR led to simplifying three sentences; revised final AAC recognition recovered all material figures, payment timing, distinction, limits and CTA. Minor recognition errors on “Gewinn/gewinnen”, “einfaches” and “Sieh dir”; no human listening approval or premium-voice equivalence claimed. Complete final decode/codec/dimension/duration checks passed. All nine final decoded midpoint samples and cover visually inspected, no clipping/overlap. Audio **−17.3LUFS/−1.4dBTP**. Own text, motion graphics and cover, no external media/music, paid generation, credits or purchase.
+Master **1,603,663bytes**, SHA256 `22d60f023882cbd2186917edf20dc0cef575bd1550b4d9b8f58f16ddf4904631`.
+
+Complete durable package **MarketPulse_Cashflow_DE_2026-11-21_Complete.zip**, Library ID `libfile_fde3_f-0d43a2c27df88191aab3486ec0790c07_d045e4cd0d248191a4a4759b90613215`, OpenAI file ID `file_000000002d5481f5a6192c1e26eea87a`, **3681442bytes**. Contains exact final uploaded `output/MarketPulse_Cashflow_DE.mp4`, uploaded own `output/MarketPulse_Cashflow_Cover.jpg`, BRIEF/CAPTION/METRICS, script/renderer/QA, WAV/SRT/timing, production dependencies, setup/model manifest/rights, probe/audio/ASR/QA and nine final decoded scene frames. Archive saved before submission; final platform status below is authoritative. One archive identity for all contents; no invented separate asset IDs.
+
+### Measurements — approximately18:29UTC on21Nov
+TikTok Studio @marketpulseelite_de; short vertical education; native **current lifetime cumulative Views/Likes/Comments**. Studio publication timezone unconfirmed, approximate ages. Nov19 is around48h review age; Nov14 is about7.7days. These are today's lifetime values, never reconstructed historic48h/7d windows.
+
+|Video ID|Studio publication|Approximate age|Views|Likes|Comments|
+|---|---|---|---:|---:|---:|
+|7710319799548595478|Nov20 19:18|about1 day|380|2|0|
+|7709956432384462103|Nov19 19:48|about48h|643|1|0|
+|7709586419173412118|Nov18 19:52|about3 days|86|0|0|
+|7709208561527573782|Nov17 19:26|about4 days|217|1|0|
+|7708845632848416022|Nov16 19:58|about5 days|105|0|0|
+|7708471871498374422|Nov15 19:47|about6 days|690|1|0|
+|7707820693920058626|Nov14 01:41|about7.7 days|122|1|0|
+|7706616891749502230|Nov10 19:49|about11 days|678|3|0|
+|7705870480783281430|Nov8 19:33|about13 days|90|0|0|
+
+Historical exact48h/7d snapshots remain missing; prior proofs/metrics preserved, older IDs not freshly visible here not assigned new figures. Retention/completion/saves/profile visits/measured link clicks/verified attributable Telegram joins/revenue unknown, not zero. No causal attribution, A/B winner or new measurement automation.
+
+### Publication evidence / final status
+**PUBLICLY PUBLISHED**, verified21Nov2026 approximately18:36UTC (**19:36Europe/Brussels**). New exact video **7710695115462954262**: https://www.tiktok.com/@marketpulseelite_de/video/7710695115462954262 . Submitted once with Now/Everyone, high quality, comments/reuse enabled, no location, audience control off for general finance education. Own cover saved after account verification. **Your brand** checked, third-party Branded content unchecked; **AI-generated** checked. Content check lite **No issues found**. First submission returned Content under review/Only me, then a fresh Studio content view showed **Everyone,Nov21,7:35PM**, initial0views/0likes/0comments. Public exact page showed correct handle/caption, **Promotional content**, **Creator labeled as AI-generated**, actual playback **00:02/00:38**, subsequently scene4 visibly playing in screenshot. Public status distinguished from earlier transient review; no re-upload.
+
+Evidence screenshot **TikTok_Cashflow_Beleg_2026-11-21.jpg**, Library ID `libfile_fde3_f-49b1af189b248191b786776fafa0b4cf_d045e4cd0d248191a4a4759b90613215`, file ID `file_00000000987081f5be7379c2aa4db97a`,126883bytes. Public post tab marked for review. Next new eligible publication day: **English** based on today's confirmed DE; not an additional publication today. Prior public dividend now confirmed once, current DE confirmed once. Actual growth/Telegram attribution not yet established.
+
+No YouTube/Instagram production or changes, Telegram workflow trigger/change, phone verification, display-name retry, paid tools, credits, purchases or new automation. Existing daily series remains ongoing; no schedule/activation/budget changes.
