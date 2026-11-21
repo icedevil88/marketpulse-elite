@@ -289,6 +289,32 @@
           "message_id": 17
         }
       }
+    },
+    "2026-11-21": {
+      "topic": {
+        "id": "inventory-turns",
+        "category": "equity",
+        "source": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+        "de": {
+          "title": "Wie oft schlägt das Lager um?",
+          "body": "Ein Beispielbetrieb hat Waren zu Einstandskosten von 240.000 Euro verkauft. Der Lagerbestand lag zu Jahresbeginn bei 40.000 und am Ende bei 80.000 Euro. Gemessen am Mittel der beiden Stichtage schlägt das Lager viermal um (240.000 geteilt durch 60.000).",
+          "question": "Wie könnte ein saisonaler Lageraufbau deinen Vergleich mit einem anderen Händler verzerren?"
+        },
+        "en": {
+          "title": "How often does the inventory turn over?",
+          "body": "A model business sells goods that cost €240,000. Inventory is €40,000 at the start of the year and €80,000 at the end. Using the average of the two balances gives four inventory turns (€240,000 divided by €60,000).",
+          "question": "How could seasonal stocking distort a comparison with another retailer?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "495eaa1dfdf04d84a6dc1df9d04b8052"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
