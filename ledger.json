@@ -318,6 +318,32 @@
           "message_id": 18
         }
       }
+    },
+    "2026-11-22": {
+      "topic": {
+        "id": "present-value",
+        "category": "valuation",
+        "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/background/valintro.htm",
+        "de": {
+          "title": "100 Euro in drei Jahren",
+          "body": "Eine einzelne, angenommene Zahlung von 100 Euro in drei Jahren hat bei 5 Prozent jährlichem Diskontsatz einen heutigen Wert von rund 86,38 Euro. Die Rechnung lautet 100 / 1,05³. Bei 8 Prozent sind es rund 79,38 Euro. Der Zahlungsbetrag bleibt in beiden Fällen gleich.",
+          "question": "Welche Annahme hat hier die Bewertung verändert?"
+        },
+        "en": {
+          "title": "A €100 payment three years from now",
+          "body": "A hypothetical single payment of €100 in three years has a present value of about €86.38 at a 5% annual discount rate, calculated as 100 / 1.05³. At 8% it is worth about €79.38 today. The assumed payment stays the same.",
+          "question": "Which input changed the valuation?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "6f2cc114f35044d5ad93709f3d48a74f"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
