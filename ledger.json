@@ -347,6 +347,32 @@
           "message_id": 19
         }
       }
+    },
+    "2026-11-23": {
+      "topic": {
+        "id": "bitcoin-confirmations",
+        "category": "crypto",
+        "source": "https://developer.bitcoin.org/devguide/payment_processing.html",
+        "de": {
+          "title": "Eine Bitcoin-Bestätigung zählen",
+          "body": "Eine Transaktion im ersten Block, der sie enthält, hat eine Bestätigung. Jeder darauf aufbauende Block erhöht die Zahl um eins. Eine Meldung über eine im Netzwerk verbreitete Transaktion allein belegt noch keine Aufnahme in einen Block.",
+          "question": "Suche in einem öffentlichen Beispiel den Block der Zahlung und zähle den Aufnahmeblock mit."
+        },
+        "en": {
+          "title": "Count a Bitcoin confirmation",
+          "body": "A transaction has one confirmation when it is included in a block. Each subsequent block built on it adds one. Seeing a transaction broadcast on the network alone does not establish inclusion in a block.",
+          "question": "In a public example, find the payment’s block and count that block when working out confirmations."
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "1181f8daea5845198779d8bfc47a0e8b"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
