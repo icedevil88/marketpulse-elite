@@ -376,6 +376,32 @@
           "message_id": 20
         }
       }
+    },
+    "2026-11-24": {
+      "topic": {
+        "id": "limit-order",
+        "category": "risk",
+        "source": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders",
+        "de": {
+          "title": "Ein Limit ist eine Preisgrenze",
+          "body": "Eine fiktive Kauforder für 100 Aktien hat ein Limit von 25 Euro. Solange nur zu 25,20 Euro verkauft wird, kann sie dort nicht ausgeführt werden. Selbst wenn ein letzter Handel zu 25 Euro angezeigt wird, sind dir 100 Stück zu diesem Preis nicht zugesichert.",
+          "question": "Welche Information fehlt dir neben dem zuletzt gehandelten Kurs?"
+        },
+        "en": {
+          "title": "A limit sets a price boundary",
+          "body": "A hypothetical order to buy 100 shares has a €25 limit. While the only sellers are asking €25.20, it cannot execute at that price. Even if the last trade shows €25, that does not guarantee 100 shares are available to you there.",
+          "question": "What information is missing from the last traded price?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "b69b6770b91f413cb3180cf1c1502851"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
