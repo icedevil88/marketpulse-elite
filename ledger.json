@@ -400,8 +400,9 @@
           "message_id": 22
         },
         "en": {
-          "status": "reserved",
-          "claim": "cd730ef4b0bb4c34aac1fd9021aa4d3d"
+          "status": "sent",
+          "claim": "cd730ef4b0bb4c34aac1fd9021aa4d3d",
+          "message_id": 21
         }
       }
     }
