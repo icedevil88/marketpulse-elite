@@ -429,8 +429,9 @@
           "message_id": 23
         },
         "en": {
-          "status": "reserved",
-          "claim": "88773dafbcc7468d8311b61a3f89f665"
+          "status": "sent",
+          "claim": "88773dafbcc7468d8311b61a3f89f665",
+          "message_id": 22
         }
       }
     }
