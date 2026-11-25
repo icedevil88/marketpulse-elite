@@ -702,3 +702,45 @@ Later pre-upload reading23Nov ID63views; initial dated snapshot above retained. 
 **PUBLICLY PUBLISHED**,24Nov2026 approximately18:23UTC/19:23Brussels. Exact video **7711805083750583574**: https://www.tiktok.com/@marketpulseelite_de/video/7711805083750583574 . Initial Content under review/Only me resolved on normal refresh to **Everyone,Nov24,7:22PM**,initial0views/0likes/0comments. Exact public page verified correct account/title/full caption, **Promotional content** and **Creator labeled as AI-generated**, actual playback **00:02/00:38**. Public tab retained as result. Own cover uploaded, previewed and saved; Now/Everyone, high quality, no location, comments/reuse enabled, audience control off (general finance education). Your brand checked, third-party Branded content unchecked, AI checked. Content check lite still running at submission; authorized ordinary Continue to post?/Post now used. No finished No issues found check claimed. One upload/submission; no duplicate after ambiguous/review state.
 
 Next new eligible creative **English** after confirmed DE. No additional post today, new task, paid generation/credits/purchase, phone verification, YouTube/Instagram work or Telegram workflow trigger/change. Display name still marketpuls; prior account-status warning on rename retained, no unnecessary retry. Current publishing series remains ongoing, schedule/activation/budget unchanged. No measured growth/revenue attribution inferred.
+
+
+## 25 November 2026 — EN TikTok — Twice the Shares. Twice the Value?
+
+Read current OPERATIONS.md/LAUNCH_CALENDAR.md and Content_Workflow_2026-11-13.html MP01–MP10 catalogue before selection. Latest confirmed DE24Nov **7711805083750583574** remained Everyone, so today's original is English. Current Studio inventory checked before production and again immediately before upload: nine visible public IDs, no25Nov/matching split or future scheduled item, empty upload selector/no draft-resume prompt. Historical proofs preserved, no assumption that older off-screen rows disappeared. Account profile **https://www.tiktok.com/@marketpulseelite_de** verified before upload, before cover Save and immediately before Post. One upload/one Post; exact new ID **7712175539523472662**. Initial Content under review/Only me resolved normally; no repeat upload after ambiguous/transient result.
+
+New corporate-action theme after catalogue check, distinct from EPS10Nov, MP02 capital/return denominators and MP10 hypothetical crypto supply. English beginners; concrete benefit: check split ratio and total position value rather than share count alone. Own hypothetical uniform2-for-1:1share×$100 becomes2shares×$50, same$100 and unchanged ownership percentage from split alone. Assumes no other corporate action/price movement; before fees/taxes. Market prices may still move and losses remain possible. No actual security, live quote/chart, forecast, private holding or purchase/tax advice. Persistent hypothetical-split/adjustment-only/no-live-prices labels. Brief Telegram CTA only after useful explanation; both free addresses, no verified-clickability claim.
+
+Editorial curiosity/clarity/originality/free feasibility/fit **2/2/2/2/2=10/10**, editorial judgment, demand unknown. Three hooks/three titles and chosen A/A rationale in BRIEF; question immediately resolved by visible multiplication. Nine-scene picture plan/narration/subtitles/rights/next-slot rule included. Fresh English public metadata references25Nov: *Stock Splits Explained: What Happens When Shares Divide | Investing for Beginners* https://www.youtube.com/watch?v=Frzcq_2ibKs ; *What is a Stock Split?* https://www.youtube.com/watch?v=IN9BNcny3YI . Language/topic/beginner context only; exact duration/TikTok-format/performance unknown. No video/thumbnail sighting, three-independent-example pattern, copied story or demand/reach forecast.
+
+Primary sources freshly searched and read **25Nov2026**:
+- SEC Investor.gov, *Stock Split*, undated: https://www.investor.gov/introduction-investing/investing-basics/glossary/stock-split
+- Fidelity Viewpoints, *Stock splits: What you need to know*, **25Sep2026**: https://www.fidelity.com/learning-center/trading-investing/stock-splits
+Regulator supports proportional mechanics/unchanged ownership; broker's first-party education separates mechanical adjustment from market movement. No outperformance/tax claim adopted. Own arithmetic1×100=2×50 independently asserted, no copied chart/media.
+
+### Final master / durable assets / QA
+**37.20s,1080×1920,H.264/AAC,25fps,48kHz**,nine chunk-timed burned-in subtitle cues. Local free Piper **en_US-ljspeech-high**,length-scale1.03; model/config hashes checked against toolkit manifest. ORT_DISABLE_TELEMETRY=1 before ONNX/Piper/ASR import/start, ONNX events off, HF telemetry off. Full final decode/format assertions passed. All nine decoded midpoint frames and own cover visually inspected; no clipping/overlap. Final AAC ASR recovered financial numbers, ownership and market-loss sentence; ASR substitutes “telegraph” for Telegram in CTA, written subtitle/addresses correct. Machine intelligibility evidence, no human listening signoff or premium-voice equivalence claimed. Audio **−17.6LUFS/−1.5dBTP**,LRA3.1. Original text/motion typography/tile diagrams/cover; no stock media/music, premium generation, credits or purchase.
+Master **1,595,037bytes**,SHA256 `48c2a320753cc6232ed58f140e428ccaad08a21a0696a028684a4ef193bdb532`.
+
+Complete package **MarketPulse_Split_EN_2026-11-25_Complete.zip**,Library ID `libfile_fde3_f-5842a1257274819195aeb8b734f80c40_d045e4cd0d248191a4a4759b90613215`,OpenAI file ID `file_0000000091d481fa807819f1e15916c5`,**3,635,022bytes**. Contains exact uploaded `output/MarketPulse_Split_EN.mp4`,saved own `output/MarketPulse_Split_Cover.jpg`,BRIEF/CAPTION/METRICS,script/renderer/QA,WAV/SRT/timing,requirements/setup/model manifest/licenses,probe/audio/ASR/QA and nine decoded scene frames. One archive identity for all contained assets, no invented separate IDs. Saved before submission; final status below authoritative. Toolkit/template restored from existing durable files after scratch pruning.
+
+### Measurement snapshot —25Nov2026 approximately18:11UTC
+TikTok Studio @marketpulseelite_de; numeric account ID unavailable; short vertical finance education. Native **current cumulative lifetime Views/Likes/Comments**, approximate ages/Studio publication timezone unconfirmed.23Nov around47.5h and18Nov around7days. Missing exact historical48h/7d snapshots remain missing, never retrospectively reconstructed.
+
+|Video ID|Published|Approx age|Views|Likes|Comments|
+|---|---|---|---:|---:|---:|
+|7711805083750583574|24Nov|23.8h|86|1|0|
+|7711438975960993046|23Nov|47.5h|65|0|0|
+|7710695115462954262|21Nov|4days|652|2|0|
+|7710319799548595478|20Nov|5days|394|2|0|
+|7709956432384462103|19Nov|6days|644|1|0|
+|7709586419173412118|18Nov|7days|87|0|0|
+|7709208561527573782|17Nov|8days|218|1|0|
+|7708845632848416022|16Nov|9days|108|0|0|
+|7708471871498374422|15Nov|10days|691|1|0|
+
+Retention/completion/saves/profile visits/measured link clicks/verified attributable Telegram joins/revenue unknown here, not zero. Older unseen IDs not assigned new values. No winner/causal attribution from small samples or new measurement automation. Topic change is not a controlled A/B experiment.
+
+### Final publication evidence
+**PUBLICLY PUBLISHED**,verified25Nov2026 approximately18:20UTC/**19:20Europe/Brussels**. Exact video **7712175539523472662**: https://www.tiktok.com/@marketpulseelite_de/video/7712175539523472662 . Studio refreshed from Content under review/Only me to **Everyone,Nov25,7:19PM**,initial0views/0likes/0comments. Exact public page opened with correct account/title/full caption, **Promotional content** and **Creator labeled as AI-generated**,actual playback **00:05/00:37** and rendered “Before the split” scene visibly verified. Live public tab retained. Own cover previewed/saved after account check. Now/Everyone,high quality,comments/reuse on,no location,audience control off (general education). **Your brand** checked,third-party Branded content unchecked,AI checked. Content check lite **No issues found** before Post. Submission and public evidence distinguished; no duplicate.
+
+Next new eligible creative **German** after this confirmed EN, not an additional publication today. No YouTube/Instagram work,Telegram workflow trigger/change,phone verification,display-name retry,paid services/credits/purchase,new task or catch-up. Display name remains marketpuls; prior account-status warning retained. Existing daily series remains ongoing; schedule/activation/budget unchanged. No growth/revenue attribution asserted.
