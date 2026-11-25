@@ -429,7 +429,8 @@
           "message_id": 23
         },
         "en": {
-          "status": "pending"
+          "status": "reserved",
+          "claim": "88773dafbcc7468d8311b61a3f89f665"
         }
       }
     }
