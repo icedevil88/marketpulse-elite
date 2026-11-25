@@ -405,6 +405,32 @@
           "message_id": 21
         }
       }
+    },
+    "2026-11-25": {
+      "topic": {
+        "id": "compounding",
+        "category": "literacy",
+        "source": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+        "de": {
+          "title": "Zinsen auf die ersten Zinsen",
+          "body": "Bei angenommenen 5 Prozent Zins pro Jahr werden aus 1.000 Euro nach einem Jahr 1.050 Euro. Bleiben die Zinsen auf dem Konto, sind es nach zwei Jahren 1.102,50 Euro. Die zusätzlichen 2,50 Euro entstehen durch Zinsen auf die ersten 50 Euro. Gebühren und Steuern bleiben im Beispiel außen vor.",
+          "question": "Wie hoch wäre das Kontoguthaben, wenn du die Zinsen jedes Jahr vollständig entnimmst?"
+        },
+        "en": {
+          "title": "Interest on the first year’s interest",
+          "body": "At an assumed 5% annual rate, €1,000 becomes €1,050 after one year. Leave the interest in the account and the two-year balance is €1,102.50. The extra €2.50 is interest on the first €50. This example excludes fees and taxes.",
+          "question": "What balance would remain in the account if you withdrew all interest each year?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "dcb521393dde4f99b7f4981fdbc10ce8"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
