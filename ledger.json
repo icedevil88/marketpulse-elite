@@ -434,6 +434,32 @@
           "message_id": 22
         }
       }
+    },
+    "2026-11-26": {
+      "topic": {
+        "id": "risk-section",
+        "category": "equity",
+        "source": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read",
+        "de": {
+          "title": "Ein Geschäftsrisiko im Bericht verfolgen",
+          "body": "Im US-Jahresbericht Form 10-K beschreibt Item 1A wesentliche Risiken. Angenommen, ein Hersteller nennt die Abhängigkeit von einem Großkunden. Markiere die Passage und suche im Bericht nach Angaben zum Umsatzanteil dieses Kunden. Bleibt die Zahl offen, vermerke das in deiner Analyse.",
+          "question": "Welche Veränderung in der nächsten Berichtsperiode würde deine Einschätzung verbessern?"
+        },
+        "en": {
+          "title": "Trace a business risk through a filing",
+          "body": "Item 1A of a US Form 10-K describes material risks. Suppose a manufacturer flags reliance on a major customer. Mark that passage and look for the customer’s share of revenue elsewhere in the filing. If you cannot find a figure, record the gap.",
+          "question": "What new disclosure next period would improve your assessment?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "48a5159b3da546a4a23ac63bd792b001"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
