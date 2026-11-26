@@ -744,3 +744,41 @@ Retention/completion/saves/profile visits/measured link clicks/verified attribut
 **PUBLICLY PUBLISHED**,verified25Nov2026 approximately18:20UTC/**19:20Europe/Brussels**. Exact video **7712175539523472662**: https://www.tiktok.com/@marketpulseelite_de/video/7712175539523472662 . Studio refreshed from Content under review/Only me to **Everyone,Nov25,7:19PM**,initial0views/0likes/0comments. Exact public page opened with correct account/title/full caption, **Promotional content** and **Creator labeled as AI-generated**,actual playback **00:05/00:37** and rendered “Before the split” scene visibly verified. Live public tab retained. Own cover previewed/saved after account check. Now/Everyone,high quality,comments/reuse on,no location,audience control off (general education). **Your brand** checked,third-party Branded content unchecked,AI checked. Content check lite **No issues found** before Post. Submission and public evidence distinguished; no duplicate.
 
 Next new eligible creative **German** after this confirmed EN, not an additional publication today. No YouTube/Instagram work,Telegram workflow trigger/change,phone verification,display-name retry,paid services/credits/purchase,new task or catch-up. Display name remains marketpuls; prior account-status warning retained. Existing daily series remains ongoing; schedule/activation/budget unchanged. No growth/revenue attribution asserted.
+
+
+## 26 November 2026 — DE TikTok — Aktie unverändert. Depot im Minus?
+
+Current OPERATIONS.md/LAUNCH_CALENDAR.md and MP01–MP10 catalogue read before selection. Latest confirmed EN25Nov **7712175539523472662** remained Everyone, so new creative German. Before production and again before upload, Studio showed no26Nov/matching currency-risk or future scheduled row; upload selector empty, no draft/resume prompt. Nine current public IDs checked; historical proofs retained. Profile **https://www.tiktok.com/@marketpulseelite_de** verified before upload, cover Save and immediately before Post. One upload/one submission; exact ID **7712552704672926998**. No resubmission after initial Content under review/Only me.
+
+New currency-conversion theme after catalogue check, distinct from24Nov purchasing power,25Nov stock split and MP02 return denominators. German beginners; concrete benefit: compare performance in same currency and distinguish share-price from exchange-rate effect. Own unhedged hypothetical100USD constant;0.90EUR/USD→0.80EUR/USD,90EUR→80EUR,10EUR decrease. Before fees/taxes/dividends; simplified conversion, no live rate/security/private holding/forecast or purchase advice. Currency can increase/reduce return; stock losses remain possible. Persistent fictitious-example/no-live-price/without hedging-fees-taxes labels. Limited CTA after benefit, both free Telegram addresses, no unverified clickability claim.
+
+Editorial curiosity/clarity/originality/free feasibility/fit2/2/2/2/2=10/10, not demand proof. Three hooks and three titles, chosen A/A rationale in BRIEF: concrete contradiction resolved by calculation. Nine-scene picture plan/narration/subtitles/rights/next-slot rule. Fresh26Nov public DE metadata examples: *EUR / US-Dollar – Währungs-Risiko oder -Chance?* https://www.youtube.com/watch?v=hN8vZJIsQAM ; *Währungsrisiko bei Aktien und Fonds: Was Du darüber wissen musst* https://www.youtube.com/watch?v=8Nv5j-KYlF8 . Language/topic context only; TikTok length/format/performance unknown. No video/thumbnail sighting, three-independent-example pattern, copying or demand/virality forecast. New topic is not a controlled A/B experiment.
+
+Primary source freshly searched/read **26Nov2026**: SEC Investor.gov *International Investing*,undated https://www.investor.gov/introduction-investing/investing-basics/investment-products/international-investing . Supports exchange-rate and market-price risks; own mirrored euro-base example, no copied chart. Arithmetic independently asserted.
+
+Final **39.56s,1080×1920,H.264/AAC,25fps,48kHz**,nine chunk-synchronized subtitle cues. Free local Piper **de_DE-thorsten-high**,length-scale1.08; model/config hashes independently checked against toolkit manifest. ORT_DISABLE_TELEMETRY=1 before ONNX/Piper/ASR,ONNX events disabled,HF telemetry off. Full decode/format assertions passed; all nine decoded midpoint frames and own cover visually inspected without clipping/overlap. Final AAC ASR recovered all material amounts, direction, comparison,limits,risk and CTA; minor “dein Depot/ein Deport” hook recognition error. Machine intelligibility evidence, no human listening approval or premium equivalence claimed. Audio **−16.9LUFS/−1.5dBTP**,LRA2.9. Original text/motion conversion cards/cover; no external media/music,premium generation,credits,purchase or account-plan changes.
+Master **1,679,518bytes**,SHA256 `0021aabe7ad055ac8682f55ba9ece6316ee1c06dc00f82ae0ba9e3b3adcd953e`.
+
+Durable package **MarketPulse_Waehrung_DE_2026-11-26_Complete.zip**,Library ID `libfile_fde3_f-c26b7d2199608191bde882e5ca258fdd_d045e4cd0d248191a4a4759b90613215`,OpenAI file ID `file_00000000779881f59197b7289d5b3781`,**3836623bytes**. Contains exact uploaded output/MarketPulse_Waehrung_DE.mp4, saved own output/MarketPulse_Waehrung_Cover.jpg, BRIEF/CAPTION/METRICS, script/renderer/QA,WAV/SRT/timing,production requirements/toolkit setup/manifest/licenses,probe/audio/ASR/QA and nine decoded frames. One archive identity for all contents,no invented separate IDs. Saved before submission; final platform proof below authoritative. Pruned scratch toolkit/template recovered from durable sources.
+
+### Measurement snapshot —26Nov2026 approximately18:39UTC
+TikTok Studio @marketpulseelite_de,numeric account ID unavailable,short vertical finance education. **Current cumulative lifetime Views/Likes/Comments**,approximate ages/Studio timezone unconfirmed.24Nov around48h;19Nov around7days. Missing historical exact48h/7d snapshots remain missing,not retrospectively reconstructed.
+
+|ID|Date|Approx age|Views|Likes|Comments|
+|---|---|---|---:|---:|---:|
+|7712175539523472662|25Nov|24h|81|0|0|
+|7711805083750583574|24Nov|48h|86|1|0|
+|7711438975960993046|23Nov|3d|65|0|0|
+|7710695115462954262|21Nov|5d|652|2|0|
+|7710319799548595478|20Nov|6d|398|2|0|
+|7709956432384462103|19Nov|7d|644|1|0|
+|7709586419173412118|18Nov|8d|87|0|0|
+|7709208561527573782|17Nov|9d|218|1|0|
+|7708845632848416022|16Nov|10d|108|0|0|
+
+Pre-upload later reading25Nov82views; initial snapshot above retained. Retention/completion/saves/profile visits/measurable link clicks/verified attributable Telegram joins/revenue unknown,not zero. No winner/causal attribution or extra measurement automation. Unseen historical entries retained,no new figures invented.
+
+### Final publication evidence
+**PUBLICLY PUBLISHED**,verified26Nov2026 approximately18:44UTC/**19:44Europe/Brussels**. Video **7712552704672926998**: https://www.tiktok.com/@marketpulseelite_de/video/7712552704672926998 . Studio initially Content under review/Only me,then normal processing/refresh showed **Everyone,Nov26,7:43PM**,initial0views/0likes/0comments. Exact public page initially could not play while processing; after public release refreshed normally and verified correct account/title/full caption, **Promotional content**, **Creator labeled as AI-generated**,actual playback **00:01/00:39**. Public tab retained as result. No duplicate upload. Own cover uploaded/previewed/saved,Now/Everyone,high quality,comments/reuse on,no location,audience control off (general financial education),Your brand checked,third-party Branded content unchecked,AI checked. Content check lite **No issues found** before Post.
+
+Next new eligible creative **English** after confirmed DE; no additional publication today or catch-up. No YouTube/Instagram work,Telegram workflow trigger/change,phone verification,display-name retry,paid services/credits/purchase or new automation. Display name remains marketpuls; prior account-status warning retained. Existing ongoing daily series/schedule/activation/budget unchanged. No growth/revenue attribution inferred.
