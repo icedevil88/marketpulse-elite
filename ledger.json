@@ -453,8 +453,9 @@
       },
       "delivery": {
         "de": {
-          "status": "reserved",
-          "claim": "48a5159b3da546a4a23ac63bd792b001"
+          "status": "sent",
+          "claim": "48a5159b3da546a4a23ac63bd792b001",
+          "message_id": 24
         },
         "en": {
           "status": "pending"
