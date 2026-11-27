@@ -487,8 +487,9 @@
           "message_id": 25
         },
         "en": {
-          "status": "reserved",
-          "claim": "aaf81dbc139144de8833896ab626da82"
+          "status": "sent",
+          "claim": "aaf81dbc139144de8833896ab626da82",
+          "message_id": 24
         }
       }
     }
