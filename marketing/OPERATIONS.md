@@ -782,3 +782,44 @@ Pre-upload later reading25Nov82views; initial snapshot above retained. Retention
 **PUBLICLY PUBLISHED**,verified26Nov2026 approximately18:44UTC/**19:44Europe/Brussels**. Video **7712552704672926998**: https://www.tiktok.com/@marketpulseelite_de/video/7712552704672926998 . Studio initially Content under review/Only me,then normal processing/refresh showed **Everyone,Nov26,7:43PM**,initial0views/0likes/0comments. Exact public page initially could not play while processing; after public release refreshed normally and verified correct account/title/full caption, **Promotional content**, **Creator labeled as AI-generated**,actual playback **00:01/00:39**. Public tab retained as result. No duplicate upload. Own cover uploaded/previewed/saved,Now/Everyone,high quality,comments/reuse on,no location,audience control off (general financial education),Your brand checked,third-party Branded content unchecked,AI checked. Content check lite **No issues found** before Post.
 
 Next new eligible creative **English** after confirmed DE; no additional publication today or catch-up. No YouTube/Instagram work,Telegram workflow trigger/change,phone verification,display-name retry,paid services/credits/purchase or new automation. Display name remains marketpuls; prior account-status warning retained. Existing ongoing daily series/schedule/activation/budget unchanged. No growth/revenue attribution inferred.
+
+
+## 27 November 2026 — EN TikTok — No Bill. No Fund Costs?
+
+Current OPERATIONS.md/LAUNCH_CALENDAR.md and MP01–MP10 catalogue read before selection. Latest confirmed DE26Nov **7712552704672926998** remained Everyone, so today's new creative English. Before production and again before upload, nine current public rows checked; no27Nov/matching fund-operating-expense or future scheduled item, upload selector empty/no draft-resume prompt. Historical proofs retained. Profile **https://www.tiktok.com/@marketpulseelite_de** verified before upload, cover Save and immediately before Post. One upload/one Post,exact new ID **7712925458752474390**. Initial Content under review/Only me,0/0/0; no reupload after transient/ambiguous processing response.
+
+New indirect annual fund-operating-cost lesson, MP09 extension distinct from19Nov fixed transaction-fee percentages. English beginners; concrete benefit: no separate bank debit does not prove no fund costs; look up expense ratio/prospectus fee table and other charges. Own hypothetical constant$10,000 balance×1%=roughly$100/year, not actual fund pricing or additional invoice. Expenses paid from fund assets reduce investment value. Actual balance/fund/other charges matter; low costs do not prevent market losses. No compounding/return prediction,private data,live price or purchase advice. Persistent hypothetical-example/constant-balance/other-charges-excluded/no-live-data labels, short Telegram CTA after benefit, both free addresses without clickability promise.
+
+Editorial curiosity/clarity/originality/free feasibility/fit2/2/2/2/2=10/10, judgment not demand/reach forecast. Three hooks/three titles in BRIEF,chosen A/A because the beginner contradiction is resolved by indirect-cost mechanism and calculation. Nine-scene picture plan/script/subtitles/rights/next-slot rule. Fresh27Nov English public metadata references: *Understanding Expense Ratio in ETF and It's Impact on Returns | ICICI Direct* https://www.youtube.com/watch?v=cbP_vxftGDY ; *ETF Fees & Expense Ratios — The Silent Number That Costs You a Fortune | ETF Investing #04* https://www.youtube.com/watch?v=-mqTkUvDPRU . Language/topic context only,TikTok length/format/performance unknown. No video/thumbnail sighting, three-independent-example pattern, copied framing or demand claim. New topic not controlled A/B test.
+
+Official primary sources freshly searched/read **27Nov2026**:
+- SEC Investor.gov *Expense Ratio*,undated: https://www.investor.gov/introduction-investing/investing-basics/glossary/expense-ratio
+- SEC OIEA *Mutual Fund and ETF Fees and Expenses – Investor Bulletin*,**23Jul2025**: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin
+Annual operating expenses/average net assets, indirect costs and other charges supported. Own arithmetic independently asserted, no source chart copied, no Belgian tax/disclosure-law claim.
+
+Final **41.76s,1080×1920,H.264/AAC,25fps,48kHz**,nine chunk-synchronized burned-in subtitle cues. Free local Piper **en_US-ljspeech-high**,length-scale1.03; model/config hashes independently checked against toolkit manifest. ORT_DISABLE_TELEMETRY=1 before ONNX/Piper/ASR import/start,ONNX events/HF telemetry disabled. Full final decode/format assertions passed; all nine decoded midpoint frames and own cover visually inspected without clipping/overlap. Final AAC ASR recovered material amounts,annual term,indirect mechanism,limits,risk/CTA; “Actual costs” recognized as “Financial costs”,substantive meaning preserved. Machine intelligibility evidence,no human listening approval or premium equivalence claimed. Audio **−17.4LUFS/−1.5dBTP**,LRA3.0. Own text/motion typography/expense-outflow diagram/cover, no external media/music,premium generations,credits,purchase or account-plan changes.
+Master **1,810,657bytes**,SHA256 `b5a7396f3271d5359d16eadd0a8c25381de3b5cda195165e40ddec3e59131fd0`.
+
+Durable package **MarketPulse_Expense_EN_2026-11-27_Complete.zip**,Library ID `libfile_fde3_f-bd25bb38ea88819180f38bd814024fdf_d045e4cd0d248191a4a4759b90613215`,OpenAI file ID `file_00000000b4a081f5b3e3225851e33a7c`,**4080830bytes**. Contains exact uploaded output/MarketPulse_Expense_EN.mp4,saved own output/MarketPulse_Expense_Cover.jpg,BRIEF/CAPTION/METRICS,script/renderer/QA,WAV/SRT/timing,requirements/toolkit setup/manifest/licenses,probe/audio/ASR/QA and nine decoded frames. One archive identity for all contents,no invented separate IDs. Saved before submission; final platform proof below authoritative. Scratch toolkit/template recovered from existing durable assets after maintenance pruning.
+
+### Measurement snapshot —27Nov2026 approximately18:45UTC
+TikTok Studio @marketpulseelite_de,numeric account ID unavailable,short vertical finance education. Native **current cumulative lifetime Views/Likes/Comments**,approximate ages/Studio timezone unconfirmed.25Nov around48h;20Nov around7days. Missing exact historical48h/7d snapshots remain missing,no retroactive reconstruction.
+
+|ID|Date|Approx age|Views|Likes|Comments|
+|---|---|---|---:|---:|---:|
+|7712552704672926998|26Nov|24h|395|2|0|
+|7712175539523472662|25Nov|48h|82|0|0|
+|7711805083750583574|24Nov|3d|86|1|0|
+|7711438975960993046|23Nov|4d|65|0|0|
+|7710695115462954262|21Nov|6d|652|2|0|
+|7710319799548595478|20Nov|7d|401|2|0|
+|7709956432384462103|19Nov|8d|644|1|0|
+|7709586419173412118|18Nov|9d|87|0|0|
+|7709208561527573782|17Nov|10d|218|1|0|
+
+Later pre-upload26Nov397views/at submission398views,initial snapshot retained. Retention/completion/saves/profile visits/measured link clicks/verified attributable Telegram joins/revenue unknown,not zero. Unseen older IDs/proofs retained,no new figures invented. No winner/causal attribution or new measurement automation.
+
+### Final publication evidence
+**PUBLICLY PUBLISHED**,verified27Nov2026 approximately18:51UTC/**19:51Europe/Brussels**. Exact video **7712925458752474390**: https://www.tiktok.com/@marketpulseelite_de/video/7712925458752474390 . Initial Content under review/Only me resolved normally to Studio **Everyone,Nov27,7:50PM**,initial0views/0likes/0comments. Exact page initially unable to play during processing; normal refresh after release verified correct account/title/full caption, **Promotional content**, **Creator labeled as AI-generated**,actual playback **00:01/00:41**. Public tab retained as result. No duplicate upload after processing state. Own cover uploaded/previewed/saved; Now/Everyone,high quality,comments/reuse on,no location,audience control off (general finance education). Your brand checked,third-party Branded content unchecked,AI checked. Content check lite **No issues found** before Post.
+
+Next new eligible creative **German** after confirmed EN,no extra post today or catch-up. No YouTube/Instagram work,Telegram workflow trigger/change,phone verification,display-name retry,paid generation/credits/purchase,new automation or account-plan changes. Display name marketpuls/prior rename warning retained. Existing ongoing daily series/schedule/activation/budget unchanged. No growth/revenue attribution inferred.
