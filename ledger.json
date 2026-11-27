@@ -463,6 +463,32 @@
           "message_id": 23
         }
       }
+    },
+    "2026-11-27": {
+      "topic": {
+        "id": "terminal-growth",
+        "category": "valuation",
+        "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/terminalvalue.htm",
+        "de": {
+          "title": "Wie empfindlich ist der Restwert?",
+          "body": "Im vereinfachten Modell einer ewigen Rente mit konstantem Wachstum beträgt der Cashflow des ersten Folgejahres 6 Mio. Euro. Bei 8 Prozent Diskontsatz und 2 Prozent Wachstum ergibt 6 / (0,08 − 0,02) einen Restwert von 100 Mio. Euro am Ende der Detailplanung. Bei 3 Prozent Wachstum werden daraus 120 Mio.",
+          "question": "Welcher Teil deiner Bewertung hängt von dieser langfristigen Annahme ab?"
+        },
+        "en": {
+          "title": "How sensitive is terminal value?",
+          "body": "In a simplified constant-growth perpetuity, cash flow in the first year after the forecast is €6m. At an 8% discount rate and 2% growth, 6 / (0.08 − 0.02) gives a €100m terminal value at the end of the forecast period. With 3% growth it becomes €120m.",
+          "question": "How much of your valuation depends on that long-term assumption?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "631e5febbe884f08bdd5ce0746508c8c"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
