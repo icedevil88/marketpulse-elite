@@ -492,6 +492,32 @@
           "message_id": 24
         }
       }
+    },
+    "2026-11-28": {
+      "topic": {
+        "id": "price-oracle",
+        "category": "crypto",
+        "source": "https://ethereum.org/developers/docs/oracles/",
+        "de": {
+          "title": "Woher kennt ein Smart Contract den Kurs?",
+          "body": "Ein Ethereum-Vertrag, der eine Zahlung an den Eurokurs koppelt, braucht einen Weg, externe Daten zu erhalten. Ein Orakel stellt diese Daten auf der Blockchain bereit. Eine korrekt ausgeführte Formel kann mit einem veralteten Eingangswert ein unbrauchbares Ergebnis liefern.",
+          "question": "Welche Datenquelle und welchen Zeitstempel würdest du beim Lesen der Dokumentation suchen?"
+        },
+        "en": {
+          "title": "How does a smart contract know an exchange rate?",
+          "body": "An Ethereum contract that ties a payment to a euro exchange rate needs a way to receive external data. An oracle makes those data available onchain. A formula can execute correctly and still produce an unusable result if its input is stale.",
+          "question": "Which data source and timestamp would you look for in the documentation?"
+        }
+      },
+      "delivery": {
+        "de": {
+          "status": "reserved",
+          "claim": "d160aadd7136420ca755bef2124a196a"
+        },
+        "en": {
+          "status": "pending"
+        }
+      }
     }
   }
 }
